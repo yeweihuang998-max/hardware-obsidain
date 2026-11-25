@@ -1,0 +1,49 @@
+{
+  "export_date": "2026-11-20",
+  "project": "HT-电子电路验证/03 脉冲急停主板_copy",
+  "uuid": "9b2151013a5b4610b6ee9941c13ce17c",
+  "source_bridge": "http://127.0.0.1:49620",
+  "scope": "全三页原理图网表、PDF、器件和网络属性、工程元数据；非原生完整CAD工程备份",
+  "files": [
+    {
+      "file": "03 脉冲急停主板_copy_原理图.zip",
+      "bytes": 725254,
+      "sha256": "777f7e8281ef94b6656bab3fe13c0c8f6f872d14d39f131b8a8945c0fb4d1bbd"
+    },
+    {
+      "file": "SCH_Schematic1_2026-11-20.pdf",
+      "bytes": 725098,
+      "sha256": "5a04486bea9b3ea708a8b46227f6d5b1b5c80214f211d8e178bee2cd4b7274a4"
+    },
+    {
+      "file": "SCH_Schematic1_2026-11-20.txt",
+      "bytes": 144062,
+      "sha256": "56ae4021be88d0d642980471d3930ce6df3f8ae0fbe036ef338ca9227a19049a"
+    },
+    {
+      "file": "原理图网表.net",
+      "bytes": 604838,
+      "sha256": "b6da987e0dd75e7118dcf3ad1c65cfbbf644bd763dfa7d6a772bfc6fe59a7b5b"
+    },
+    {
+      "file": "器件清单.csv",
+      "bytes": 30144,
+      "sha256": "e42b1851670bf60fde33d6dc132a99d4cd7e9bcfb26e71603e2ca286ca72d286"
+    },
+    {
+      "file": "工程快照.json",
+      "bytes": 30183,
+      "sha256": "915bdc2bc68e6b4ea428f7509290217d1c8cbdff2fb980f7a190f384c170a224"
+    },
+    {
+      "file": "桥接连接复测.json",
+      "bytes": 18946,
+      "sha256": "5b429e843ea064e49f28387772d9d77946218730359a6cdf0d15d645e6543caf"
+    },
+    {
+      "file": "网络连接.csv",
+      "bytes": 11068,
+      "sha256": "7b6f4f4741b685d8926493d70c402e77ceba064f42b0345c7ac5b742ebbd8780"
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+               1                                                                                    2                                                                           3                                                                                                  4                                                                                     5                                                                                                        6
+
+
+                                                                                                                                                                                                                                           +3.3V
+
+                                                                                                                                                                                                                                                                                                                                               下载接口
+                                                                                                                                                                                                           C12        1uF
+
+                                                                                                                                                                                                                                                                                                                                          H2
+                                                                                                                                                                                                           C13        100nF                                                                 R1
+                                                                                                                          +3.3V                                                             X3                                                                                                                                  SWDIO    1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                 GND1
+                                                                                                                                                                                                                                                                                                          R16                              1
+                                                                                                                                                                                           1                                            4                                                   10kΩ                                         2
+                                                                                                                                       GND1                                                  Enable/Disable                         VDD                                  +3.3V                            10kΩ                             2
+                                                          +3.3V        C28                                                                                                                 2                                            3 CLK_5500                                                                              SWCLK    3
+
+
+
+
+                                                                                         GND1
+                                                                                                                                                                                             GND                                    OUT                                                                                                    3
+                                                                                                                                R15                                                                                                                                                                                                      4
+                                                                                                                                                                                                                                                                                                                                           4
+                                                                                                                                10kΩ                                                         25MHz
+                                          CN1              2           100nF                                                                                                                               晶振电路
+                                                         2                                                                                                                          GND1                                                                                                                                                  PZ254V-11-04P
+                                                           1                     U12            TPL5010DDCR                                   C29
+                                        B2B-XH-A(LF)(SN) 1
+                                                                                1                                    6          NRST          1uF
+                                                                                  VDD                           RSTn
+                                                                                2                                    5
+                                                                GND1
+
+
+
+
+                                        GND1
+                                                  R14                             GND                           WAKE
+A                                                                               3                                    4             DOG                                                                                                                                                                                                                                                                                                                                                                A
+                                                                                  DELAY/M_RST                   DONE
+                                                  10kΩ                                                                                                                                                                                                                                                                                                                                                                                                                      GND1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                     +3.3V
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    +3.3V
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   +3.3V
+                                                               看门狗8s
+
+
+
+
+                                                                                                                                                                                                                                              GND1
+                                                                                                                                  C11                                                                         +3.3V                                                                                                                                                                                                                          R7             R33
+
+
+
+
+                                                                                                                                                       GND1
+                                                                                                                                                               OSC-IN                                                                                                                                                                                                                                                                        10kΩ           10kΩ                       U22
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       1
+                                                                                                                                  20pF                                                                                                                                                                                                                                                                                                                                                   GND
+                         +3.3V                                                                                                                                                                                                                        C73                                                                                                                                                                                                                              2
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         VCC
+                                                                                                                                                                                                                                                      100nF                                                                                                                                                              IIC_CLK                                                       3
+                                                                                                                                                                                            R82          R81          R80                                                                                                                                                                                                                                                                SCL
+
+
+
+
+                                                                                                                                              3
+
+                                                                                                                                                       2
+                                                                                                                                                                                                                                                                                                                                                                                                                         IIC_SDA                                                       4
+                                                                                                                                                                                            100kΩ        100kΩ        100kΩ                                                                                                                                                                                                                                                              SDA
+                                                                                                                                                              X1
+                         C3     C4 C5      C6    C7       C8                 C14       C15 C32                                                                8MHz                                                                                                                                                                                                                                                                                                                     HS96L03W2C03
+                         100nF 100nF 100nF 100nF 100nF    100nF              2.2uF     2.2uF4.7uf
+                                                                                                                                                                                                                  SW11                 2
+                                                                                                                                                                                                    SW2 1                       2
+
+
+
+
+                                                                                                                                              4
+
+                                                                                                                                                       1
+                                                                                                                                C24                                                                       C58
+
+
+
+
+                                                                                                                                                GND1
+                         GND1                                                                                                                                  OSC_OUT                                    100nF
+
+                                                                                                                                20pF                                                       SW3            1                 2
+                                   U2
+                   R2
+
+
+
+
+                                                                                                                         GND1
+    +3.3V
+
+
+
+
+                                 1                              64             +3.3V                                                                                                                C1
+                                    VBAT                    VDD
+                                 2                              63                                                                                                                                  100nF
+                   10Ω              PC13                    VSS             GND1
+                                 3                              62
+                                    PC14                    PB9
+                                 4                              61
+                                    PC15                    PB8          R11
+                  OSC-IN         5                              60
+                                    PH0                   BOOT0                                         GND1
+                  OSC_OUT        6                              59             10kΩ
+                                                                                                                  1，5032晶振换成常规的有源的3225晶振，物料优先选用之前的仓库现
+
+
+
+
+                                                                                                                                                                                                  GND1
+
+
+
+
+                                                                                                                                                                                                                                                                  GND1
+                                    PH1                     PB7
+                  NRST           7                              58     CAN1_TX
+                  RELAY_VOLT     8
+                                    NRST
+                                    PC0
+                                                            PB6
+                                                            PB5
+                                                                57     CAN1_RX                                    用的，经过验证的物料；
+B                       SW1      9                              56    LEDBL_CTL                                                                                                                                                                                                                                                                                                                                                                                                                       B
+                                    PC1                     PB4
+                        SW2     10
+                                    PC2                     PB3
+                                                                55    KEYVAL_A0                                   2，网口和下载口放在正面，这个板安装之后周边可周边会有线
+                        SW3     11
+                                12
+                                    PC3                     PD2
+                                                                54
+                                                                53
+                                                                      KEYVAL_A1
+                                                                      KEYVAL_A2
+                                                                                                                  槽，不确定什么方向会被挡住，在板下面不好操作。下载口换
+                  GND1
+                    +3.3V       13
+                                    VSSA
+                                    VDDA
+                                                           PC12
+                                                           PC11
+                                                                52                                                成直插，不用卧插的连接器套；
+                                14                              51
+                                    PA0-WKUP               PC10
+                        DOG     15
+                                    PA1                    PA15
+                                                                50                                                3，丝印是很重要的一部分，生产和现场使用人员都需要看；
+                  485_TXD2
+                  485_RXD2
+                                16
+                                17
+                                    PA2                    PA14
+                                                                49
+                                                                48
+                                                                      SWCLK
+                                                                                  C30
+                                                                                                                  板子名称，按键功能，端子定义，插针定义等需要标明；
+                                                                           +3.3V
+                  GND1          18
+                                    PA3
+                                    VSS
+                                                            VDD
+                                                         VCAP_2
+                                                                47                                      GND1
+                                                                                                                  丝印放整齐，能清晰辨别每一个元器件，方向大体一致，不超过
+                                                                                                                                               U9
+                    +3.3V       19                              46    SWDIO
+                                                                                                                  两个方向
+
+
+
+
+                                                                                                                                                                                                                                                                            GND1
+                                    VDD                    PA13
+                  W5500-SPI-SCS 20                              45    CAN2_TX 1uF                                                        TXN 1                                                                                                  48
+                                    PA4                    PA12                                                                                                                                         TXN                              AGND
+                  W5500-SPI-SCLK21                              44    CAN2_RX                                                                                                                    TXP  2                                         47
+                                    PA5                    PA11                                                                                                                                         TXP                                  NC
+                  W5500-SPI-MISO22                              43 MCU_CX_SEND                                                                                                       C33              3                                         46
+                                    PA6                    PA10                                                                                                                                         AGND                                 NC                                                                                                                                           C46     10nF
+                  W5500-SPI-MOSI23                              42    IN_2                                                                                                                            4                                         45
+                  W5500-INTN    24
+                                    PA7
+                                    PC4
+                                                            PA9
+                                                            PA8
+                                                                41    IN_1                                                                                                                       RXN 5
+                                                                                                                                                                                                        AVDD
+                                                                                                                                                                                                        RXN
+                                                                                                                                                                                                                                      PMODE0
+                                                                                                                                                                                                                                      PMODE1
+                                                                                                                                                                                                                                                44                                                                                                                                                                                    网络接口
+                  W5500-RESET 25                                40                                                                                                                  100nF        RXP 6                                          43
+                                    PC5                     PC9                                                                                                                                         RXP                           PMODE2                                                                                                                                 R20          R21
+                  MCU_CX_PD     26                              39                                                                                                                  +3.3V1            7                                         42                                                                                                                                                 GND1            J1
+                                    PB0                     PC8                                                                                                                                         DNC                              RSVD                                                                                                                                82Ω          82Ω
+                  MCU_CX_SIG_IN27                               38                                                                                                               C34                  8                                         41
+
+
+
+
+                                                                                                                                                                                                                                                                     GND1
+                                    PB1                     PC7                                                                                                                                         AVDD                             RSVD                                                                                                                                                                                                                                J8
+                                28                              37                                                                                                                       100nF        9                                         40
+                                    PB2                     PC6                                                                                                          GND1                           AGND                             RSVD                                                                                                               RXN                           C44     6.8nF       6 RD-      1CT:1CT
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                             J7
+                IIC_CLK         29                              36                                                                                                                     12.4K         10                                         39                                                 RN1
+                                    PB10                   PB15                                                                                                                                R19      EXRES1                           RSVD                                                                                                                                                                 5                                                              J6 RX-
+                IIC_SDA C31     30                              35                                                                                                               C35                 11                                         38
+                                    PB11                   PB14                                                     LED1                                                                                AVDD                             RSVD                                                                                                               RXP                       C45        6.8nF        3 RD+                                                          J5
+                                31                              34                                        R47                                                                                        12                                         37           W5500-RESET
+            GND1                    VCAP_1                 PB13                     LED                                                                                             100nF               NC                                RSTn                                                                          +3.3V
+                                32                              33   LED                                                                 GND1                                                        13                                         36           W5500-INTN                                                                                                                                                                                                      J4
+                    +3.3V           VDD_1                  PB12                                                                                                                        +3.3V1           NC                                 INTn                                                                                                                                      49.9Ω         TXN        2 TD-      1CT:1CT
+                          1uF                                                                             1kΩ                                                                                        14                                         35           W5500-SPI-MOSI                                                                               +3.3V                  R22                                                                                         J3 RX+
+                                                                                                                                                                                                        AGND                              MOSI                                                                                                                                       10Ω                      4                                                              J2 TX-
+                                   APM32F405RGT6                                                                    KT-0603R                                                     C36     100nF       15                                         34           W5500-SPI-MISO                                                                                                      R24
+                                                                                                                                                                                                        AVDD                              MISO                                                                                                                                       49.9Ω         TXP        1 TD+                                                          J1 TX+
+                                                                                                                                                                                                     16                                         33           W5500-SPI-SCLK                        10kΩ                                                                          R23
+                                                                                                                                                                                                        AGND                             SCLK
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                  GND1
+                                                                                                                                                                                 C37                 17                                         32           W5500-SPI-SCS                                                                                                                                                1000pF
+                                                                                                                                                                                                        AVDD                             SCSn                                                                                                                                C47      22nF                    7                                                            4X75 ohms
+                                                                                                                                                                                         100nF       18                                         31                                                                                                                                                              NC        2KV
+                                                                                                                                                                                                        VBG                                  XO                                                                                                                                                               8
+C                                                                                                                                                                                                    19                                         30           CLK_5500                                                                                                                                                                                                                                 C
+                                                                                                                                                                                                        AGND                          XI/CLKIN                                                                                                                                                  +3.3V
+                                                                                                                                                                                 C41     4.7uF       20                                         29                                                                                                                                                                 CHSGreen
+                                                                                                                                                                                                                                                                                                                                                                                                                       GNDLED
+                                                                                                                                                                                                        TOCAP                             GND                                                                                                                                                                  9
+                                                                                                                                                                                 C38     100nF       21                                         28
+                                                                                                                                                                                                        AVDD                               VDD                                                  +3.3V                                                       LINKLED                       470Ω                10
+                                                                                                                                                                                C42      10nF        22                                         27           ACTLED                C39                                                                                              R25
+                                                                                                                                                                                                        1V2O                          ACTLED                                                                                                                                                                                                                                                 SH1
+                                                                                                                                                                                                     23                                         26                                           E4                                                                                                                         Yellow LED
+                                                                                                                                                                                                        RSVD                          DUPLED                                                                                                                                                                  12
+                                                                                                                                                                                                     24                                         25           LINKLED             100nF      10uF
+                                                                                                                                                                                                        SPDLED                        LINKLED                                                                                                               ACTLED                         470Ω               11                                                                             SH2
+                                                                                                                                                                                                                                                                                                                                                                                    R26
+                                                                                                                                                                                                              W5500
+                                                                                                                                                                                                                                                                                                                                                                              C40         100nF                    HR911105A_C12074
+                                                                                                                                                                                                                                                                                                                                                          GND1
+                                                                                                                                                                                                                                                                                        GND1
+
+
+
+
+                                                                                                                                                                                                                                                     +3.3V                             +3.3V1
+                                                                                                                                                                                                                                                                L4
+
+                                                                                                                                                                                                                                                             CBW321609U601T
+                                                                                                                                                                                                                                             E2                                                 E3
+                                                                                                                                                                                                                                             10uF                                               10uF
+
+
+
+                                                                                                                                                                                                                                                                 GND1
+
+
+
+
+D                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     D
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                    主板原理图                                                       安徽恒泰电气科技股份有限公司
+
+
+                                                                                                                                                                                                                                                                                                                          标记            更改        签字         日期
+                                                                                                                                                                                                                                                                                                                          设计            汪雷        日期       2023.11.13          材料            数量           重量             比例
+                                                                                                                                                                                                                                                                                                                          审核            赵德忠       日期       2023.11.15
+                                                                                                                                                                                                                                                                                                                          批准            司志良       日期       2023.11.18        共                    张       第                 张
+               1                                                                                    2                                                                           3                                                                                                  4                                                                                     5                                                                                                        6
+                                     1                                                                                                2                                                                                                3                                                                                                       4                                                                                                          5                                                                                          6
+
+
+
+
+                                                                                                        D7               D8
+                                                                      F9
+                                                                 1                2
+    +12V                                 L7                                                                                                                     VCC
+                                                                                                                                                                                                                                                                                                 CN2
+                                                                 nSMD020-30V                                          1N5819WS
+                                                                                                  1N5819WS                                 D3                                                                                                                                                        1                                                                                                                                                                                                                    +18V
+                                                                                                                                                                                                                                                                                                   1                12VG                                                                                                               1N5819WS                                             F7
+                                                                                                                                           SMAJ26CA                                                                                                                                                  2                                                                                                                     +18VIN
+                                                                                                                                                                                                                                                                                                   2                +12V                                                                                                                                          L2
+
+
+
+
+                                                                                                                                                                GND
+                                         YLCM4532EL-510T                                                                                                                                                                                                                                             3    CAN1H                                                                                                                       D18
+    12VG                                                                                                                                                                                                                                                                                           3                                                                                                                                                                                   SMD0603-001-60
+                                                                                                                                                                                                                                                                                                     4    CAN1L                                                                                                                                                                                                    D17
+                                                                                                                                                                                                                                                                                                   4
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                    18VG
+                                                                                                                                                                                                                                                                                                     5    CAN2H                                                                                                                       D19                                                                          SMAJ26CA
+                                                                                                                                                                                                                                                                                                   5
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                GND2
+                                                                                                                                                                                                                                                                                                     6    CAN2L                                                                                                                                           YLCM4532EL-510T
+                                                                                                                                                                                                                                                                                                   6
+                                                                                                                                                                                                                                                                                                     7    K1                                                                                                                           1N5819WS
+                                                         GND                                                                                                                                                                                                                                       7
+                                                                                                                                                                                                                                                                                                     8    K2
+A                                                                                                                                                                                                                                                                                                  8                                                                                                                                                                                                                                                                       A
+                                                                       U5                                                                                                     BSMD0805-050-15V                                                                                 +5V                   9    K3
+                                                                                                                         L1                                                                                                                                                                        9
+                                                                      1                     8           C19                                                                             F2                                                                                                           10   K4
+                                                                        PGND             SW                                                                                                                                                                                                       10
+                                                                      2                     7                            10uH                                                                                                                                                                        11   BS_IN
+    VCC                                                                 VIN            BOOT                                                C20 C21 C9            C10                                                                                                                              11
+
+
+
+
+                                                                                                                                                                                                            2
+
+
+
+
+                                                                                                                                                                                                                                                  2
+                                                                      3                     6                                                                                                                                                                                                        12
+                 C16        C17          C18             R5             EN              VCC                   100nF                                                                               U3                                       U4                                                     12                CX
+                                                                                                        C22                                                                                                                                                                          R4
+
+
+
+
+                                                                                                                                          47uF
+
+                                                                                                                                                 47uF
+                                                                      4                     5                                                                                                                                                                                                        13           18VG
+
+
+
+
+                                                                                                                                                          1uF
+
+                                                                                                                                                                  1uF
+                                                        200kΩ           PG               FB                                                                                                       ZM4734A                         Q1       ZM4734A                      Q2                        13
+
+
+
+
+                                                                                  EP
+                 4.7uF
+
+
+                            4.7uF
+
+
+
+
+                                                                                                                         GND
+                                                                                                                                                                                  R6                                                                                                 5kΩ             14
+                                         100nF                                                                                                                                                                                                                                                    14          +18VIN
+
+
+
+
+                                                                               9
+                                                                                                                                                                                  100kΩ
+
+
+
+
+                                                                                                                                                                                                                BT151S-500R,118
+
+
+
+
+                                                                                                                                                                                                                                                      BT151S-500R,118
+                                                          LMR33630ADDAR                                                                                               C23                              3                                      3
+                                                                                                        1uF                                                                                                                                                                                      KF2EDGR-5.08-14P                                                             R30
+                                                                                                                                                                      1nF
+
+
+
+
+                                                                                                                                                                                                            1
+
+
+
+
+                                                                                                                                                                                                                                                  1
+                                                                                                                                      GND
+                                                                                                                                                                                                                                                                                      LED2
+                                                                               GND                                                                                                               R8                                    R9                                                                                                                             U6      6.8Ω
+                                                                                                                                                                                                                                                                                      KT-0603R
+                                     GND                                                                                                                                                         2kΩ                                   2kΩ
+                                                                                                                                                                                  R10                                                                                                                                                  +18V                           1                      8
+                                                                                                                                                                                                                                                                                                                                                                        ADJ              NC
+                                                                                                                                                                                  24.9kΩ                                                                                                                                                                              2                      7
+                                                                            电源降压                                                                                                                                                                                                                                                                                      3
+                                                                                                                                                                                                                                                                                                                                                                        NC
+                                                                                                                                                                                                                                                                                                                                                                        NC
+                                                                                                                                                                                                                                                                                                                                                                                         NC
+                                                                                                                                                                                                                                                                                                                                                                                          V-
+                                                                                                                                                                                                                                                                                                                                                                                             6
+                                                                                                                                                                                                                                                                                                                                                                   TP34                      5
+                                                                                                                                                                                                                                                                              GND                                                                                       V+               NC
+                                                                                                                                                                            GND                                                                                                                                                                                       LM334DT                                                                                                        U16
+                                                                                                                                                                                                                                                                                                                                                                                                                                 F3                                                                                 R13
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 4                 1                                         MCU_CX_SEND
+                                                                                                +3.3V
+                                                                                                                                                                                                                                                                                                                                                                                    D1
+                                                                                                                                                                                                                                                                                                                                                                                                                                 SMD0603-002-30                                                                     330Ω
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 3                 2
+                                                                                                               C55                                                                                                                                                                                                  CX
+                                                            U13
+                                                                                                              TP2                                                                                                                                                                                                                                                                   1N4148WS                                                                                         TLP521GB-S(UMW)
+                                                GND
+
+                                                +VO
+
+
+
+
+                                                            250kHz
+                                                VIN
+
+                                                0V
+
+
+
+
+                                                                +5V1                                                                                                                                                                                                                                                                                                                                                                                                                                     GND1
+
+
+
+                                                                                                                               GND1
+                                                                                                         10uF
+                                              1
+                                              2
+                                              4
+                                              6
+           +5V
+
+
+
+
+                                                                                                   3
+                                                                                                   2
+                                                                                                   1
+
+
+
+
+                                    C25
+                                                                            C27                               U11
+                                                                                             INPUT
+                                                                                            OUTPUT
+                                                                                               GND
+
+
+
+
+                                    10uF           C26
+                                                                            100nF                             AMS1117-3.3
+                                                   10uF
+
+                                                                                                                                                                                                                                                                                                                                                                                    1N4148WS
+                         GND                                                                                                                                                                                                                                                                                                                                                                          R35
+B                                                                                                                                                                                                                                                                                                                                                                                                                           Q6                                    +18V                                                                                                     B
+                                                 GND1
+
+                                                                                      3.3V供单片机 网口                                                                                                                                                                                                                                                                                    D20              1kΩ
+                                                                                                                                                                                                                                                                                                                                                                                                                  S9014
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        R40
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 39kΩ
+                                                                                                                                                                                                                                                                                                                                                                                                                                             R38
+                                                                                                                                                                                                                                                                                                                                                                                                                                             510kΩ
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     U19
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             R45
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 4                 1                                         MCU_CX_PD
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             330Ω
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          GND2                   3                 2
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 TLP521GB-S(UMW)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             GND1
+                                                                                                                                                                                                                                                                                                                                                                                                            R44            R12
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                             GND2
+                                                                                                                                                                                                                                                                                                                                                                                                   +18V                                                       +18V                                                                                 +3.3V
+                                                                                                                                                                                                                                                                                                                                                                                            +18V            200kΩ          100kΩ
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                         C57
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                         100nF                                                               R41
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    U15.1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              8
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            10kΩ
+                                                                                                                                                                                                                                                                                                                                                                                                 1N4007W                                            2                                                                            U18
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           R36
+                                                                                                                                                                                                                                                                                                                                                                                                 D15                                                                     1                                                  1                  4
+                                                                                                                                                                                                                                                                                                                                                                                                      R43                                                                                                                                                  MCU_CX_SIG_IN
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    3
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2kΩ
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       C56         R37      2                  3
+                                                                                                                                                                                                                                                                                                                                                                               R3                    1MΩ
+                                                                                                                                                                                                                                                                                                                                                                                                                           D16              LM358A-VR                                                  1nF         200kΩ
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              4
+                                                               +5V1                                                                                                                                                                                                                                                                                                                              U17
+                                                                                                                                                                                                                                                                                                                                                                               510kΩ                                       1N4148WS                                                                                          TLP521GB-S(UMW)
+                                                   E1      10uF                                                       E5                                                                                                                                                                                                                                                                         SMBJ18A
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    GND1
+                                                                             U1                                       10uF
+                                                  C43                       1                    16                   C48
+                            GND1                                              VCC           VISO                                                                                                 F1                                                                                                                                                                                                                                                           GND2                                GND2
+                                                           100nF            2                    15                   100nF                      4 FL1                3
+                                                                              GND1         GND2                                                                              D10                                                                                         D12                                                                                                    GND2                              GND2
+                                                          CAN1_TX           3                    14
+                                                                              TXD             NC                                                                                               SMD1206-010-60                          CAN1H
+C                                                                           4                    13                                                                                                                                                                                                                                                                                                                                                                                                                                                                        C
+                                                                              NC           CANH                                                                                              SMAJ15CA
+                          R17                             CAN1_RX           5                    12            C52
+                                                                              RXD          CANL                                                                                              D11                                       CAN1L
+                         10kΩ                                               6                    11
+                                                                              NC            VISO                                                                                               F4
+                                                                C49         7                    10                                              1                    2            BAV99
+                                               R18                            NC           GND2                                                                                                                                                                                                                     PZ254V-11-03P PZ254V-11-03P
+                                                                            8                    9             1uF                                                                                                                                                       PESD2CAN
+                                    +5V1       0R(NC)                         GND1         GND2                                                   DLW43SH510XK2L                                 SMD1206-010-60                                                          D13                CAN1_GND                             H5          H6
+
+
+
+
+                                                                                                                                                                                                                                                                                                                         1
+                                                                                                                                                                                                                                                                                                                         2
+                                                                                                                                                                                                                                                                                                                         3
+
+
+
+                                                                                                                                                                                                                                                                                                                                                     1
+                                                                                                                                                                                                                                                                                                                                                     2
+                                                                                                                                                                                                                                                                                                                                                     3
+                                                           100nF             CA-IS3062W
+
+
+
+
+                                                                                                                                                                                                                                                                                                                       1
+                                                                                                                                                                                                                                                                                                                       2
+                                                                                                                                                                                                                                                                                                                       3
+
+
+
+                                                                                                                                                                                                                                                                                                                                                   1
+                                                                                                                                                                                                                                                                                                                                                   2
+                                                                                                                                                                                                                                                                                                                                                   3
+                                                                                                                       CAN1_GND
+                                                                     GND1
+                                                                                                                                                  外部CAN通信 5K
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                   CAN2H
+                                                                                                                                                                                                                                                                                                                       CAN1L
+                                                                                                                                                                                                                                                                         PESD2CAN
+                                                               +5V1
+                                                   E6      10uF                                                       E7                                                                                                                                                                                                               R29                         R39
+                                                                               U10                                    10uF                                                                                                                                                                                                             120Ω                        120Ω
+                                                  C50                        1                    16                  C51
+                            GND1                                               VCC           VISO                                                                                                F5
+                                                           100nF             2                    15                  100nF                      4 FL2                3
+                                                                               GND1         GND2                                                                             D5                                                                                          D9
+                                                           CAN2_TX           3                    14
+                                                                               TXD             NC                                                                                               SMD1206-010-60                         CAN2H
+
+
+
+
+                                                                                                                                                                                                                                                                                                                               CAN1H
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           CAN2L
+                                                                             4                    13
+                                                                               NC           CANH                                                                                             SMAJ15CA
+                          R27                              CAN2_RX           5                    12           C54
+                                                                               RXD          CANL                                                                                             D6                                        CAN2L
+                         10kΩ                                                6                    11
+                                                                               NC            VISO                                                                                               F6
+                                                                C53          7                    10                                             1             2                   BAV99
+                                               R28                             NC           GND2
+                                                                             8                    9            1uF                                      DLW43SH510XK2L                                                                                                   PESD2CAN
+                                    +5V1       0R(NC)                          GND1         GND2                                                                                                 SMD1206-010-60                                                          D14                CAN2_GND
+                                                           100nF               CA-IS3062W
+                                                                 GND1                                                  CAN2_GND
+                                                                                                                                                  内部CAN通信 250K
+                                                                                                                                                                                                                                                                         PESD2CAN
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   创建日期                                2026-10-09
+                                                                                                                                                                                                                                                                                                                                              原理图                                                                          Schematic1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   更新日期                                2026-11-12
+D                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          D
+                                                                                                                                                                                                                                                                                                                                              板子                                                                    脉冲急停主板V01                                                                      图页                                  电源+查询+CAN
+                                                                                                                                                                                                                                                                                                                                              绘制
+                                                                                                                                                                                                                                                                                                                                              审阅                                                                                                                                                 03 脉冲急停主板_copy
+
+                                                                                                                                                                                                                                                                                                                                                                                                                             版本                      尺寸                                                             页           2       共     3
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                             V1.0                       A4                                                                 嘉立创EDA
+
+                                     1                                                                                                2                                                                                                3                                                                                                       4                                                                                                          5                                                                                          6
+        1                                                                                                                 2                                                                                           3                                                                                                    4                               5                                 6
+
+
+
+
+                                                                                                                                                                       R31                R48                                  BS_DSIG_CHK
+
+
+
+
+                                                                                                                                                       GND2
+                                                                                                                                                                       39kΩ               78              U20.2
+                                                                                                                                                                                                      6
+A                                                                                                                                                                                                                                                                                                                                                                                                A
+                                                                                                                                                                                                                      7
+                                                                                                       R49                       R50                                     R51             TP7                 2
+                                                                                                                                                                                                      5
+                                                                                                       470kΩ                      470kΩ                               470kΩ
+                                                                                                                              C2                  C59             C60                    R52              LM324A-TR
+                                                                                                                              100nF                               10nF                   470kΩ
+                                                                                                                                                 100nF
+                                                  F10
+         BS_IN
+                                SMBJ30CA
+
+
+                                               SMD1206-010-60                                                                                                                                                                           GND2
+                                                                             R53                                   GND2
+                                              D2
+                                                                             200kΩ
+                                                                                                                                                                                                                                                                                   BS_ASIG_CHK
+            18VG
+                                                                                                                                                                                                                                 C61           C62
+                                                                                                                                                                                                                                                                   R54
+                                                                                                                                                                                                                                               100nF
+                                                                                                                                                                                 C63      10nF        BS_ASIG                    22uF(NC)
+
+
+
+
+                                                                                                                                                                                                                      +18V
+                                                                                                                   GND2                         GND2                                                                                                               51kΩ      C64 C65          C66
+                                                                                                                                                                                                                                                   R57                                                   R58
+                                                                                                                                                                                                            U21
+                                                                                                                                                              47kΩ(NC)             R56                                                             0Ω                                                    51kΩ
+                                                                                                                                                                                                                                                                             22uF 1uF     100nF
+
+
+
+
+                                                                                                                                                                                                                                                                                                                GND2
+                                                                                                                                                               R55                                         1                         8
+                                                                                                                                                                                                             1OUT               VCC
+                                                                                                                                                                                   0Ω                      2                         7
+                                                                                                                          R59                                                                                1IN-              2OUT
+                                                                                                                                          TP6                                                              3                         6
+                                                                                                      C67                 10kΩ D4                                                                            1IN+               2IN-                                R62
+                                                                                                                                                                                47kΩ                       4                         5                                                 BS_ASIG
+
+
+
+
+                                                                                                                                                                                               GND2
+                                                                                                                                                                47kΩ                                         GND                2IN+
+                                                                                                                                                    R60                        R61
+                                                                                                                                                                                                                                                           C69 51kΩ
+                                                                                                                                                                                                          LM258DR
+                                                                                                      2.2uF                       DSS14
+                                                                                                                                                                                                      GND2
+                                                                                                                                                                                                                                                           1uF
+
+
+
+
+                                                                                                                                                                                                                                                                            GND2
+                                                                                                                                                                          C68     10nF
+
+
+
+                                                                                                                                                                                                                                                                                                 +5V1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                K2
+
+                                                                                                                                                                                                                                                                                                                       K1
+B                                                                                                                                                                                                                                                                                                                                                                                                B
+                                                                                                                                                                                                                                                                    R32
+
+
+
+
+                                                                                                                                                                                                                                                                                                 1
+
+                                                                                                                                                                                                                                                                                                         2
+
+                                                                                                                                                                                                                                                                                                                3
+
+                                                                                                                                                                                                                                                                                                                       4
+                                                                                                                                                                                                                                                                    1kΩ
+                                                                                                                                                                                                                                                                                                                               K1
+                                                                                                                                                                                                                                                                                                     +
+                                                                                                                                                                                                                                             MHT192DUGCT                     D21        D22
+                                                                                                                                                                                                                                                                                                                               G6K-2F-Y-5V
+                                                                                                                                                                                                                                                                    LED3
+                                                                                                                                                                                                                                                                               MRA4007T3G            -
+
+
+
+
+                                                                                                                                                                                                                                                                                                 8
+
+                                                                                                                                                                                                                                                                                                         7
+
+                                                                                                                                                                                                                                                                                                                6
+
+                                                                                                                                                                                                                                                                                                                       5
+                                                                                                                                                                                                                                                                         MRA4007T3G
+                                                                                                            +18V                                                                                                                                                                    R65
+                                                                                      +1.65V
+
+
+
+
+                                                                                                                                                                                                                                                                                                                K4
+
+                                                                                                                                                                                                                                                                                                                       K3
+                                                                                                                 C70      22uF                                                                                                                                                          51Ω
+                                                                                                                                                                                                                                                             RELAY_VOLT                        去掉
+                                                                                                                 U20.1
+
+
+
+
+                                                                                                                    C71
+                                                                                                                                                        这两个电阻太大，导致光耦不能完全导通
+                                                                                                                                       GND2
+
+
+
+
+                                  R63                      R64
+                 GND2
+
+
+
+
+                                                                                                            4
+
+
+
+
+                                  10kΩ                     82kΩ                                                     100nF
+                                                          U20.4                                  2                                                                                                                                      U7
+                                                                                                                                                        R66
+                                                    13                                                                    1                                                                               TP4                       1                  4
+                                                                            14                   3
+                                                                                                            1
+    BS_ASIG_CHK         R67                                    4                                                                                        4.7kΩ
+                                                    12                                                                                                                                                                              2                  3
+                                                                                                                 LM324A-TR
+                                                                                                            11
+
+
+
+
+                        2.7kΩ                                                                                                                                                                                                           TLP521GB-S(UMW)
+                                                          LM324A-TR
+                                                                                                                                                                                                                             GND2
+
+                                           +18V                    +1.65V
+                                                         R83                R84
+                                                                                          GND2
+
+
+
+
+                                                                                                            GND2
+                                                                                                       U20.3
+                                                         200kΩ              20kΩ
+                                                                                                 9                                                                                                                                      U8
+                                                                                                                                                        R69
+                                                                                                                          8                                                                                  TP5                    1                  4
+                                                                    R42                                     3
+                                                                                                 10
+                                                                                                                                                        4.7kΩ
+                                           BS_DSIG_CHK                                                                                                                                                                              2                  3
+                                                                    100kΩ
+C                                                                                         C72   LM324A-TR                                                                                                                                                                                                                                                                                        C
+                                                                                                                                                                                                                                        TLP521GB-S(UMW)
+                                                                                          100nF
+                                                                                                                                                                                                                             GND2
+
+
+
+
+                                                                                                                                                                                                                                                            GND1
+                                                                                   GND2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                 创建日期           2026-10-10
+                                                                                                                                                                                                                                                                                                                       原理图                    Schematic1
+                                                                                                                                                                                                                                                                                                                                                                 更新日期           2026-11-12
+D                                                                                                                                                                                                                                                                                                                                                                                                D
+                                                                                                                                                                                                                                                                                                                       板子                    脉冲急停主板V01           图页             闭锁
+                                                                                                                                                                                                                                                                                                                       绘制
+                                                                                                                                                                                                                                                                                                                       审阅                                      03 脉冲急停主板_copy
+
+                                                                                                                                                                                                                                                                                                                                               版本     尺寸                页   3    共     3
+
+
+                                                                                                                                                                                                                                                                                                                                               V1.0    A4                   嘉立创EDA
+
+        1                                                                                                                 2                                                                                           3                                                                                                    4                               5                                 6
+

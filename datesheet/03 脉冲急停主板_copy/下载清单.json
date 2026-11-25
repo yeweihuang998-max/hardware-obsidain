@@ -1,0 +1,4459 @@
+{
+  "date": "2026-11-20",
+  "project": "03 脉冲急停主板_copy",
+  "documents": [
+    {
+      "filename": "B2B-XH-A_LF_SN__6fe93e47.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20180928/C265283_F9DFEEBDB2CF642B6BDFAB4B77BD2680.pdf",
+      "refs": "CN1",
+      "parts": [
+        {
+          "ref": "CN1",
+          "part": "B2B-XH-A(LF)(SN)",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20180928/C265283_F9DFEEBDB2CF642B6BDFAB4B77BD2680.pdf",
+      "bytes": 193920,
+      "sha256": "389be59ed37c479038b3b5902d064f056f27a3c966bebbdda2f1a5a4bbde20a8",
+      "text": "/tmp/hardware-review-20261120/B2B-XH-A_LF_SN__6fe93e47.txt",
+      "original_download_filename": "B2B-XH-A_LF_SN__6fe93e47.pdf",
+      "local_file": "B2B-XH-A_LF_SN__6fe93e47.pdf"
+    },
+    {
+      "filename": "0805B103K500NT_bf74b8e9.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C38141_1506149447419988747.pdf",
+      "refs": "C33,C34,C35,C36,C37,C38,C39,C40,C49,C43,C48,C53,C50,C51",
+      "parts": [
+        {
+          "ref": "C33",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C34",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C35",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C36",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C37",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C38",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C39",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C40",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C49",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C43",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C48",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C53",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C50",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C51",
+          "part": "0805B104K500NT",
+          "value": "100nF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C38141_1506149447419988747.pdf",
+      "bytes": 1021941,
+      "sha256": "c81ab9b60bd5bf435a50670690aa0ef0723443a8e77ae58eba09776c810c7d7a",
+      "text": "/tmp/hardware-review-20261120/0805B104K500NT_0e6c1ca3.txt",
+      "original_download_filename": "0805B104K500NT_0e6c1ca3.pdf",
+      "local_file": "0805B103K500NT_bf74b8e9.pdf"
+    },
+    {
+      "filename": "0805B103K500NT_bf74b8e9.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C40894_1506149452994988759.pdf",
+      "refs": "E2,E3,E4,E1,E5,E6,E7",
+      "parts": [
+        {
+          "ref": "E2",
+          "part": "0805X106K250NT",
+          "value": "10uF"
+        },
+        {
+          "ref": "E3",
+          "part": "0805X106K250NT",
+          "value": "10uF"
+        },
+        {
+          "ref": "E4",
+          "part": "0805X106K250NT",
+          "value": "10uF"
+        },
+        {
+          "ref": "E1",
+          "part": "0805X106K250NT",
+          "value": "10uF"
+        },
+        {
+          "ref": "E5",
+          "part": "0805X106K250NT",
+          "value": "10uF"
+        },
+        {
+          "ref": "E6",
+          "part": "0805X106K250NT",
+          "value": "10uF"
+        },
+        {
+          "ref": "E7",
+          "part": "0805X106K250NT",
+          "value": "10uF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C40894_1506149452994988759.pdf",
+      "bytes": 1021941,
+      "sha256": "c81ab9b60bd5bf435a50670690aa0ef0723443a8e77ae58eba09776c810c7d7a",
+      "text": "/tmp/hardware-review-20261120/0805X106K250NT_a9cc3ce3.txt",
+      "original_download_filename": "0805X106K250NT_a9cc3ce3.pdf",
+      "local_file": "0805B103K500NT_bf74b8e9.pdf"
+    },
+    {
+      "filename": "W5500_3093488a.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20140704/1457707126739.pdf",
+      "refs": "U9",
+      "parts": [
+        {
+          "ref": "U9",
+          "part": "W5500",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20140704/1457707126739.pdf",
+      "bytes": 2152793,
+      "sha256": "393550638bb6262b399347784222828e2dac05c61d4089530a9205939e1f889f",
+      "text": "/tmp/hardware-review-20261120/W5500_3093488a.txt",
+      "original_download_filename": "W5500_3093488a.pdf",
+      "local_file": "W5500_3093488a.pdf"
+    },
+    {
+      "filename": "0805W8F3300T5E_C17630.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+      "refs": "R19,R20,R21,R22,R23,R24,R25,R26,R5,R8,R9,R4,R18,R28,R36,R55,R60,R61",
+      "parts": [
+        {
+          "ref": "R19",
+          "part": "0805W8F1002T5E",
+          "value": "12.4K"
+        },
+        {
+          "ref": "R20",
+          "part": "0805W8J0820T5E",
+          "value": "82Ω"
+        },
+        {
+          "ref": "R21",
+          "part": "0805W8J0820T5E",
+          "value": "82Ω"
+        },
+        {
+          "ref": "R22",
+          "part": "0805W8F499JT5E",
+          "value": "49.9Ω"
+        },
+        {
+          "ref": "R23",
+          "part": "0805W8F499JT5E",
+          "value": "49.9Ω"
+        },
+        {
+          "ref": "R24",
+          "part": "0805W8F100JT5E",
+          "value": "10Ω"
+        },
+        {
+          "ref": "R25",
+          "part": "0805W8F4700T5E",
+          "value": "470Ω"
+        },
+        {
+          "ref": "R26",
+          "part": "0805W8F4700T5E",
+          "value": "470Ω"
+        },
+        {
+          "ref": "R5",
+          "part": "0603WAF2003T5E",
+          "value": "200kΩ"
+        },
+        {
+          "ref": "R8",
+          "part": "0805W8F2001T5E",
+          "value": "2kΩ"
+        },
+        {
+          "ref": "R9",
+          "part": "0805W8F2001T5E",
+          "value": "2kΩ"
+        },
+        {
+          "ref": "R4",
+          "part": "0603WAF3902T5E",
+          "value": "5kΩ"
+        },
+        {
+          "ref": "R18",
+          "part": "0805W8F1002T5E",
+          "value": "0R(NC)"
+        },
+        {
+          "ref": "R28",
+          "part": "0805W8F1002T5E",
+          "value": "0R(NC)"
+        },
+        {
+          "ref": "R36",
+          "part": "0805W8F2001T5E",
+          "value": "2kΩ"
+        },
+        {
+          "ref": "R55",
+          "part": "0805W8F4702T5E",
+          "value": "47kΩ(NC)"
+        },
+        {
+          "ref": "R60",
+          "part": "0805W8F4702T5E",
+          "value": "47kΩ"
+        },
+        {
+          "ref": "R61",
+          "part": "0805W8F4702T5E",
+          "value": "47kΩ"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+      "bytes": 467557,
+      "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef",
+      "text": "/tmp/hardware-review-20261120/0805W8F1002T5E_fb383592.txt",
+      "original_download_filename": "0805W8F1002T5E_fb383592.pdf",
+      "local_file": "0805W8F3300T5E_C17630.pdf"
+    },
+    {
+      "filename": "CL10B102KB8NNNC_C1588.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707696447.pdf",
+      "refs": "C41",
+      "parts": [
+        {
+          "ref": "C41",
+          "part": "CL21A475KAQNNNE",
+          "value": "4.7uF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707696447.pdf",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL21A475KAQNNNE_b1f16776.txt",
+      "original_download_filename": "CL21A475KAQNNNE_b1f16776.pdf",
+      "local_file": "CL10B102KB8NNNC_C1588.pdf"
+    },
+    {
+      "filename": "0805B103K500NT_bf74b8e9.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C52278_1506149485247988826.pdf",
+      "refs": "C42,C46",
+      "parts": [
+        {
+          "ref": "C42",
+          "part": "0805B103K500NT",
+          "value": "10nF"
+        },
+        {
+          "ref": "C46",
+          "part": "0805B103K500NT",
+          "value": "10nF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C52278_1506149485247988826.pdf",
+      "bytes": 1021941,
+      "sha256": "c81ab9b60bd5bf435a50670690aa0ef0723443a8e77ae58eba09776c810c7d7a",
+      "text": "/tmp/hardware-review-20261120/0805B103K500NT_bf74b8e9.txt",
+      "original_download_filename": "0805B103K500NT_bf74b8e9.pdf",
+      "local_file": "0805B103K500NT_bf74b8e9.pdf"
+    },
+    {
+      "filename": "0805B103K500NT_bf74b8e9.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1755_1506149343126988525.pdf",
+      "refs": "C44,C45",
+      "parts": [
+        {
+          "ref": "C44",
+          "part": "0805B682K500NT",
+          "value": "6.8nF"
+        },
+        {
+          "ref": "C45",
+          "part": "0805B682K500NT",
+          "value": "6.8nF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1755_1506149343126988525.pdf",
+      "bytes": 1021941,
+      "sha256": "c81ab9b60bd5bf435a50670690aa0ef0723443a8e77ae58eba09776c810c7d7a",
+      "text": "/tmp/hardware-review-20261120/0805B682K500NT_f8205fae.txt",
+      "original_download_filename": "0805B682K500NT_f8205fae.pdf",
+      "local_file": "0805B103K500NT_bf74b8e9.pdf"
+    },
+    {
+      "filename": "CL10B102KB8NNNC_C1588.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707694628.pdf",
+      "refs": "C47",
+      "parts": [
+        {
+          "ref": "C47",
+          "part": "CL21B223KBANNNC",
+          "value": "22nF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707694628.pdf",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL21B223KBANNNC_31b12188.txt",
+      "original_download_filename": "CL21B223KBANNNC_31b12188.pdf",
+      "local_file": "CL10B102KB8NNNC_C1588.pdf"
+    },
+    {
+      "filename": "RC-ML08W103JT_5c2dadd2.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20171225/C69593_15141884772841203313.pdf",
+      "refs": "RN1",
+      "parts": [
+        {
+          "ref": "RN1",
+          "part": "RC-ML08W103JT",
+          "value": "10kΩ"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20171225/C69593_15141884772841203313.pdf",
+      "bytes": 2057833,
+      "sha256": "ed64f3cf8e3ba35d58715fdc05d1c02b529825795e2d2400e6eabc803ba74218",
+      "text": "/tmp/hardware-review-20261120/RC-ML08W103JT_5c2dadd2.txt",
+      "original_download_filename": "RC-ML08W103JT_5c2dadd2.pdf",
+      "local_file": "RC-ML08W103JT_5c2dadd2.pdf"
+    },
+    {
+      "filename": "CBW321609U601T_36628ebf.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20160606/1465200211209.pdf",
+      "refs": "L4",
+      "parts": [
+        {
+          "ref": "L4",
+          "part": "CBW321609U601T",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20160606/1465200211209.pdf",
+      "bytes": 1795123,
+      "sha256": "5f38a77f07cd8afa1603663b520781194f992c7caa960a4c5bc9eb3cec72e973",
+      "text": "/tmp/hardware-review-20261120/CBW321609U601T_36628ebf.txt",
+      "original_download_filename": "CBW321609U601T_36628ebf.pdf",
+      "local_file": "CBW321609U601T_36628ebf.pdf"
+    },
+    {
+      "filename": "HR911105A_6f28a7a2.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20170918/C12074_1505726819496976146.pdf",
+      "refs": "J1",
+      "parts": [
+        {
+          "ref": "J1",
+          "part": "HR911105A",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20170918/C12074_1505726819496976146.pdf",
+      "bytes": 290329,
+      "sha256": "7298dc56f8734d6e4c4fd6e479cf41c05b2bf5f13f08aae8bca40312fc707ef4",
+      "text": "/tmp/hardware-review-20261120/HR911105A_6f28a7a2.txt",
+      "original_download_filename": "HR911105A_6f28a7a2.pdf",
+      "local_file": "HR911105A_6f28a7a2.pdf"
+    },
+    {
+      "filename": "TPL5010DDCR_e5ffe45c.pdf",
+      "url": "https://www.ti.com/cn/lit/gpn/tpl5010",
+      "refs": "U12",
+      "parts": [
+        {
+          "ref": "U12",
+          "part": "TPL5010DDCR",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://www.ti.com/cn/lit/ds/symlink/tpl5010.pdf?ts=1795146380585",
+      "bytes": 944598,
+      "sha256": "86db15e06d2311bc67ecbcde2dd4e3dc58881eecbfe32258103bf331de7d7bca",
+      "text": "/tmp/hardware-review-20261120/TPL5010DDCR_e5ffe45c.txt",
+      "original_download_filename": "TPL5010DDCR_e5ffe45c.pdf",
+      "local_file": "TPL5010DDCR_e5ffe45c.pdf"
+    },
+    {
+      "filename": "OT322525MJBA4SL_56a049ad.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20210329/C669065_30B18CFE780D377BA4E84F6ED1951959.pdf",
+      "refs": "X3",
+      "parts": [
+        {
+          "ref": "X3",
+          "part": "OT322525MJBA4SL",
+          "value": "25MHz"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20210329/C669065_30B18CFE780D377BA4E84F6ED1951959.pdf",
+      "bytes": 486867,
+      "sha256": "d161fe249af2a34f38e23c1f10e8713874b0ab5904630aaf8c65c86900d6442a",
+      "text": "/tmp/hardware-review-20261120/OT322525MJBA4SL_56a049ad.txt",
+      "original_download_filename": "OT322525MJBA4SL_56a049ad.pdf",
+      "local_file": "OT322525MJBA4SL_56a049ad.pdf"
+    },
+    {
+      "filename": "0603CG200J101NT_9cd80dcf.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20211026/1B9CC6FF40D574A190437DF0D5F8F6A6.pdf",
+      "refs": "C11,C24",
+      "parts": [
+        {
+          "ref": "C11",
+          "part": "0603CG200J101NT",
+          "value": "20pF"
+        },
+        {
+          "ref": "C24",
+          "part": "0603CG200J101NT",
+          "value": "20pF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20211026/1B9CC6FF40D574A190437DF0D5F8F6A6.pdf",
+      "bytes": 318307,
+      "sha256": "414e76f06bb28f39a489d7b3b605eb15ce969e9258ec75235f8dcff85e59e373",
+      "text": "/tmp/hardware-review-20261120/0603CG200J101NT_9cd80dcf.txt",
+      "original_download_filename": "0603CG200J101NT_9cd80dcf.pdf",
+      "local_file": "0603CG200J101NT_9cd80dcf.pdf"
+    },
+    {
+      "filename": "KT-0603R_6a30968b.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20160616/1466072038404.pdf",
+      "refs": "LED1,LED2",
+      "parts": [
+        {
+          "ref": "LED1",
+          "part": "KT-0603R",
+          "value": ""
+        },
+        {
+          "ref": "LED2",
+          "part": "KT-0603R",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20160616/1466072038404.pdf",
+      "bytes": 617575,
+      "sha256": "118728d09c94bb2902f52079b27b5e0e52d75ddf3a6188fd20f24e99d6c9df4f",
+      "text": "/tmp/hardware-review-20261120/KT-0603R_6a30968b.txt",
+      "original_download_filename": "KT-0603R_6a30968b.pdf",
+      "local_file": "KT-0603R_6a30968b.pdf"
+    },
+    {
+      "filename": "LMR33630ADDAR_e50fe833.pdf",
+      "url": "https://www.ti.com/cn/lit/gpn/lmr33630",
+      "refs": "U5",
+      "parts": [
+        {
+          "ref": "U5",
+          "part": "LMR33630ADDAR",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://www.ti.com/cn/lit/ds/symlink/lmr33630.pdf?ts=1795146381187",
+      "bytes": 4569735,
+      "sha256": "71bca20c1f8dd624547e980e0912ae1ca37279357d20aad6817e3e203e7281a5",
+      "text": "/tmp/hardware-review-20261120/LMR33630ADDAR_e50fe833.txt",
+      "original_download_filename": "LMR33630ADDAR_e50fe833.pdf",
+      "local_file": "LMR33630ADDAR_e50fe833.pdf"
+    },
+    {
+      "filename": "BSMD0805-050-15V_94dd4f9f.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20230512/7A46D6CD923C15CBB98FD769C08EDD80.pdf",
+      "refs": "F2",
+      "parts": [
+        {
+          "ref": "F2",
+          "part": "BSMD0805-050-15V",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20230512/7A46D6CD923C15CBB98FD769C08EDD80.pdf",
+      "bytes": 403185,
+      "sha256": "69001cdf2ac9d011b848dc732ea474e0108843a76eecadbb1524466d32e0f1db",
+      "text": "/tmp/hardware-review-20261120/BSMD0805-050-15V_94dd4f9f.txt",
+      "original_download_filename": "BSMD0805-050-15V_94dd4f9f.pdf",
+      "local_file": "BSMD0805-050-15V_94dd4f9f.pdf"
+    },
+    {
+      "filename": "CGA0603X7R104K500JT_7982375c.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20250103/C44077DA9E7B3EFAE02F22B6D3D1CBC9.pdf",
+      "refs": "C19,C18,C57",
+      "parts": [
+        {
+          "ref": "C19",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C18",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C57",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20250103/C44077DA9E7B3EFAE02F22B6D3D1CBC9.pdf",
+      "bytes": 1316007,
+      "sha256": "9b8138369ec94b3ee7806280db23c1e7ddce42c7ff868d8aa47fb1b9403180b9",
+      "text": "/tmp/hardware-review-20261120/CGA0603X7R104K500JT_7982375c.txt",
+      "original_download_filename": "CGA0603X7R104K500JT_7982375c.pdf",
+      "local_file": "CGA0603X7R104K500JT_7982375c.pdf"
+    },
+    {
+      "filename": "BT151S-500R_118_669e90a9.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20201023/C909686_0B35B9AF067EED6C5B9ABE2201E4480A.pdf",
+      "refs": "Q1,Q2",
+      "parts": [
+        {
+          "ref": "Q1",
+          "part": "BT151S-500R,118",
+          "value": ""
+        },
+        {
+          "ref": "Q2",
+          "part": "BT151S-500R,118",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20201023/C909686_0B35B9AF067EED6C5B9ABE2201E4480A.pdf",
+      "bytes": 275306,
+      "sha256": "75802801124e4fc758ebdd07f836f8071add74b91f21aa3bb31b20971ab3ad60",
+      "text": "/tmp/hardware-review-20261120/BT151S-500R_118_669e90a9.txt",
+      "original_download_filename": "BT151S-500R_118_669e90a9.pdf",
+      "local_file": "BT151S-500R_118_669e90a9.pdf"
+    },
+    {
+      "filename": "YLCM4532EL-510T_bce91b64.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20220720/7B6357585E0C0A356762F5F2E33C9CF5.pdf",
+      "refs": "L7,L2",
+      "parts": [
+        {
+          "ref": "L7",
+          "part": "YLCM4532EL-510T",
+          "value": ""
+        },
+        {
+          "ref": "L2",
+          "part": "YLCM4532EL-510T",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20220720/7B6357585E0C0A356762F5F2E33C9CF5.pdf",
+      "bytes": 530481,
+      "sha256": "15edc80b5eb1cd43abafeee74ca81c6f7a5f2358068e37316e064225850effaa",
+      "text": "/tmp/hardware-review-20261120/YLCM4532EL-510T_bce91b64.txt",
+      "original_download_filename": "YLCM4532EL-510T_bce91b64.pdf",
+      "local_file": "YLCM4532EL-510T_bce91b64.pdf"
+    },
+    {
+      "filename": "TAJA106K016RNJ_df62eb10.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20160107/1457707748093.pdf",
+      "refs": "C25,C26,C55",
+      "parts": [
+        {
+          "ref": "C25",
+          "part": "TAJA106K016RNJ",
+          "value": "10uF"
+        },
+        {
+          "ref": "C26",
+          "part": "TAJA106K016RNJ",
+          "value": "10uF"
+        },
+        {
+          "ref": "C55",
+          "part": "TAJA106K016RNJ",
+          "value": "10uF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20160107/1457707748093.pdf",
+      "bytes": 125312,
+      "sha256": "e625f677fabdb26ba99f42c114dbb37c115e20f58fefaac18e948da62955c7c9",
+      "text": "/tmp/hardware-review-20261120/TAJA106K016RNJ_df62eb10.txt",
+      "original_download_filename": "TAJA106K016RNJ_df62eb10.pdf",
+      "local_file": "TAJA106K016RNJ_df62eb10.pdf"
+    },
+    {
+      "filename": "CA-IS3062W_ef7be912.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20220506/1B37B7024FA65B6EFA4260730BFA4228.pdf",
+      "refs": "U1,U10",
+      "parts": [
+        {
+          "ref": "U1",
+          "part": "CA-IS3062W",
+          "value": ""
+        },
+        {
+          "ref": "U10",
+          "part": "CA-IS3062W",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20220506/1B37B7024FA65B6EFA4260730BFA4228.pdf",
+      "bytes": 1679372,
+      "sha256": "6003e52ec4f0a1d6eb9469b07152367b2db2832aa4ce4b7dc0fc47d5736e6c73",
+      "text": "/tmp/hardware-review-20261120/CA-IS3062W_ef7be912.txt",
+      "original_download_filename": "CA-IS3062W_ef7be912.pdf",
+      "local_file": "CA-IS3062W_ef7be912.pdf"
+    },
+    {
+      "filename": "0805W8F1002T5E_504fd6ae.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C17414_1505887067106979773.pdf",
+      "refs": "R17,R27,R41",
+      "parts": [
+        {
+          "ref": "R17",
+          "part": "0805W8F1002T5E",
+          "value": "10kΩ"
+        },
+        {
+          "ref": "R27",
+          "part": "0805W8F1002T5E",
+          "value": "10kΩ"
+        },
+        {
+          "ref": "R41",
+          "part": "0805W8F1002T5E",
+          "value": "10kΩ"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C17414_1505887067106979773.pdf",
+      "bytes": 620589,
+      "sha256": "2ce7e326c6755e2fe12b30195a59c2021bcaddf72a70ff457c5f67da215b0d65",
+      "text": "/tmp/hardware-review-20261120/0805W8F1002T5E_504fd6ae.txt",
+      "original_download_filename": "0805W8F1002T5E_504fd6ae.pdf",
+      "local_file": "0805W8F1002T5E_504fd6ae.pdf"
+    },
+    {
+      "filename": "CL10B102KB8NNNC_C1588.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707763339.pdf",
+      "refs": "C52,C54,C21,C20",
+      "parts": [
+        {
+          "ref": "C52",
+          "part": "CL21B105KBFNNNE",
+          "value": "1uF"
+        },
+        {
+          "ref": "C54",
+          "part": "CL21B105KBFNNNE",
+          "value": "1uF"
+        },
+        {
+          "ref": "C21",
+          "part": "CL31A476MPHNNNE",
+          "value": "47uF"
+        },
+        {
+          "ref": "C20",
+          "part": "CL31A476MPHNNNE",
+          "value": "47uF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707763339.pdf",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL21B105KBFNNNE_f76a0912.txt",
+      "original_download_filename": "CL21B105KBFNNNE_f76a0912.pdf",
+      "local_file": "CL10B102KB8NNNC_C1588.pdf"
+    },
+    {
+      "filename": "PESD2CAN_4ccb1412.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20180918/C284078_DC297CB2BF89271044F07577A109ECB3.pdf",
+      "refs": "D12,D13,D9,D14",
+      "parts": [
+        {
+          "ref": "D12",
+          "part": "PESD2CAN",
+          "value": ""
+        },
+        {
+          "ref": "D13",
+          "part": "PESD2CAN",
+          "value": ""
+        },
+        {
+          "ref": "D9",
+          "part": "PESD2CAN",
+          "value": ""
+        },
+        {
+          "ref": "D14",
+          "part": "PESD2CAN",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20180918/C284078_DC297CB2BF89271044F07577A109ECB3.pdf",
+      "bytes": 1077451,
+      "sha256": "4807c28b684c432b7fa7c8cc2c2730a022023a46ac4d81e4a3546ade0e7504e4",
+      "text": "/tmp/hardware-review-20261120/PESD2CAN_4ccb1412.txt",
+      "original_download_filename": "PESD2CAN_4ccb1412.pdf",
+      "local_file": "PESD2CAN_4ccb1412.pdf"
+    },
+    {
+      "filename": "CL10B102KB8NNNC_C1588.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707727161.pdf",
+      "refs": "C64,C61,C70",
+      "parts": [
+        {
+          "ref": "C64",
+          "part": "CL21A226MAQNNNE",
+          "value": "22uF"
+        },
+        {
+          "ref": "C61",
+          "part": "CL21A226MAQNNNE",
+          "value": "22uF(NC)"
+        },
+        {
+          "ref": "C70",
+          "part": "CL21A226MAQNNNE",
+          "value": "22uF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707727161.pdf",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL21A226MAQNNNE_abf49f2d.txt",
+      "original_download_filename": "CL21A226MAQNNNE_abf49f2d.pdf",
+      "local_file": "CL10B102KB8NNNC_C1588.pdf"
+    },
+    {
+      "filename": "MHT192DUGCT_7e5299af.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20231114/40E469906A7C8BE4964C1CB3B5553F65.pdf",
+      "refs": "LED3",
+      "parts": [
+        {
+          "ref": "LED3",
+          "part": "MHT192DUGCT",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20231114/40E469906A7C8BE4964C1CB3B5553F65.pdf",
+      "bytes": 917195,
+      "sha256": "cc1cbd2cbda8e8d18e27957be4cb46f43c6c68f38cd296371a28558757296544",
+      "text": "/tmp/hardware-review-20261120/MHT192DUGCT_7e5299af.txt",
+      "original_download_filename": "MHT192DUGCT_7e5299af.pdf",
+      "local_file": "MHT192DUGCT_7e5299af.pdf"
+    },
+    {
+      "filename": "CC0805KKX7R9BB105_81db54f5.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20181008/C309510_22F155564471FAF6A489F7D68F34234E.pdf",
+      "refs": "C69,C65",
+      "parts": [
+        {
+          "ref": "C69",
+          "part": "CC0805KKX7R9BB105",
+          "value": "1uF"
+        },
+        {
+          "ref": "C65",
+          "part": "CC0805KKX7R9BB105",
+          "value": "1uF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20181008/C309510_22F155564471FAF6A489F7D68F34234E.pdf",
+      "bytes": 1593344,
+      "sha256": "6fa0e144ce3535e191d3a604aa0778de7f1fc7a88df6a3797bcac228c09bfd6d",
+      "text": "/tmp/hardware-review-20261120/CC0805KKX7R9BB105_81db54f5.txt",
+      "original_download_filename": "CC0805KKX7R9BB105_81db54f5.pdf",
+      "local_file": "CC0805KKX7R9BB105_81db54f5.pdf"
+    },
+    {
+      "filename": "LM258DR_e6270b39.pdf",
+      "url": "https://www.ti.com/cn/lit/gpn/lm258",
+      "refs": "U21",
+      "parts": [
+        {
+          "ref": "U21",
+          "part": "LM258DR",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://www.ti.com/cn/lit/ds/symlink/lm258.pdf?ts=1795146382862",
+      "bytes": 4461371,
+      "sha256": "4ebfc96664cc44fb8a8e0c6d5d7fb1f97a84cf1c424d3ee58402352dc334d052",
+      "text": "/tmp/hardware-review-20261120/LM258DR_e6270b39.txt",
+      "original_download_filename": "LM258DR_e6270b39.pdf",
+      "local_file": "LM258DR_e6270b39.pdf"
+    },
+    {
+      "filename": "SMBJ30CA_c3dbf9d8.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20220105/A85241C44E92388BF8CCAC68B271DA70.pdf",
+      "refs": "D2",
+      "parts": [
+        {
+          "ref": "D2",
+          "part": "SMBJ30CA",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20220105/A85241C44E92388BF8CCAC68B271DA70.pdf",
+      "bytes": 663085,
+      "sha256": "e2528454b239f4c85aaca60a9ec349ba9ff61e0de2afd0e81d9a3d2a8c667b37",
+      "text": "/tmp/hardware-review-20261120/SMBJ30CA_c3dbf9d8.txt",
+      "original_download_filename": "SMBJ30CA_c3dbf9d8.pdf",
+      "local_file": "SMBJ30CA_c3dbf9d8.pdf"
+    },
+    {
+      "filename": "RC0603FR-0739KL_6450037d.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20181009/C309620_DA5935B6E1D48212CB7A533FE518B3C2.pdf",
+      "refs": "R32",
+      "parts": [
+        {
+          "ref": "R32",
+          "part": "RC0603FR-0739KL",
+          "value": "1kΩ"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20181009/C309620_DA5935B6E1D48212CB7A533FE518B3C2.pdf",
+      "bytes": 845597,
+      "sha256": "dd800dff668b309576cce8c34be108265f4822708970368ed4341e961c6a7e55",
+      "text": "/tmp/hardware-review-20261120/RC0603FR-0739KL_6450037d.txt",
+      "original_download_filename": "RC0603FR-0739KL_6450037d.pdf",
+      "local_file": "RC0603FR-0739KL_6450037d.pdf"
+    },
+    {
+      "filename": "G6K-2F-Y-5V_c8e4e251.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20211014/7BF675B8400467E84F4521D7CBDF46F1.pdf",
+      "refs": "K1",
+      "parts": [
+        {
+          "ref": "K1",
+          "part": "G6K-2F-Y-5V",
+          "value": ""
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20211014/7BF675B8400467E84F4521D7CBDF46F1.pdf",
+      "bytes": 1647610,
+      "sha256": "6edb99ef739061fd52191fffe8a9745c489c37b556def8c12e26644f88b52a9b",
+      "text": "/tmp/hardware-review-20261120/G6K-2F-Y-5V_c8e4e251.txt",
+      "original_download_filename": "G6K-2F-Y-5V_c8e4e251.pdf",
+      "local_file": "G6K-2F-Y-5V_c8e4e251.pdf"
+    },
+    {
+      "filename": "CC0805KRX7R9BB104_ea485e5e.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20180224/C181747_15194369449651363981.pdf",
+      "refs": "C71,C62,C66,C2,C72",
+      "parts": [
+        {
+          "ref": "C71",
+          "part": "CC0805KRX7R9BB104",
+          "value": "100nF"
+        },
+        {
+          "ref": "C62",
+          "part": "CC0805KRX7R9BB104",
+          "value": "100nF"
+        },
+        {
+          "ref": "C66",
+          "part": "CC0805KRX7R9BB104",
+          "value": "100nF"
+        },
+        {
+          "ref": "C2",
+          "part": "CC0805KRX7R9BB104",
+          "value": "100nF"
+        },
+        {
+          "ref": "C72",
+          "part": "CC0805KRX7R9BB104",
+          "value": "100nF"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20180224/C181747_15194369449651363981.pdf",
+      "bytes": 1292288,
+      "sha256": "1e5b52a3dd62d38d61594cf75ca98758e64b21cb28b97cbf754f86d5219f8747",
+      "text": "/tmp/hardware-review-20261120/CC0805KRX7R9BB104_ea485e5e.txt",
+      "original_download_filename": "CC0805KRX7R9BB104_ea485e5e.pdf",
+      "local_file": "CC0805KRX7R9BB104_ea485e5e.pdf"
+    },
+    {
+      "filename": "RT0805BRD07100KL_75676fa4.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20170721/C122537_1500619325668834091.pdf",
+      "refs": "R42,R83,R84",
+      "parts": [
+        {
+          "ref": "R42",
+          "part": "RT0805BRD07100KL",
+          "value": "100kΩ"
+        },
+        {
+          "ref": "R83",
+          "part": "RT0805BRD07100KL",
+          "value": "200kΩ"
+        },
+        {
+          "ref": "R84",
+          "part": "RT0805BRD07100KL",
+          "value": "20kΩ"
+        }
+      ],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20170721/C122537_1500619325668834091.pdf",
+      "bytes": 704391,
+      "sha256": "69d8b9252a60ab73e237addf5e14990ac3d7bcc9b54155e23bdeb3ae43ad4fa6",
+      "text": "/tmp/hardware-review-20261120/RT0805BRD07100KL_75676fa4.txt",
+      "original_download_filename": "RT0805BRD07100KL_75676fa4.pdf",
+      "local_file": "RT0805BRD07100KL_75676fa4.pdf"
+    },
+    {
+      "filename": "LMR33630_TI.pdf",
+      "url": "https://www.ti.com/lit/ds/symlink/lmr33630.pdf",
+      "refs": "U5",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://www.ti.com/lit/ds/symlink/lmr33630.pdf",
+      "bytes": 4156395,
+      "sha256": "3b0920a4e56a0b3f5f214a6317d3c06cff6e541e5054024adc31c30acc50c04a",
+      "text": "/tmp/hardware-review-20261120/LMR33630_TI.txt",
+      "original_download_filename": "LMR33630_TI.pdf",
+      "local_file": "LMR33630_TI.pdf"
+    },
+    {
+      "filename": "TPL5010_TI.pdf",
+      "url": "https://www.ti.com/lit/ds/symlink/tpl5010.pdf",
+      "refs": "U12",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://www.ti.com/lit/ds/symlink/tpl5010.pdf",
+      "bytes": 634427,
+      "sha256": "a62ae27e1c3dd0cef4549fe4e7d10c637359804a09c74791e4814f6aa26a0f39",
+      "text": "/tmp/hardware-review-20261120/TPL5010_TI.txt",
+      "original_download_filename": "TPL5010_TI.pdf",
+      "local_file": "TPL5010_TI.pdf"
+    },
+    {
+      "filename": "LM258_TI.pdf",
+      "url": "https://www.ti.com/lit/ds/symlink/lm258.pdf",
+      "refs": "U21",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://www.ti.com/lit/ds/symlink/lm258.pdf",
+      "bytes": 4150801,
+      "sha256": "8277dff7b89138c63b3582d37f378065a1dea3cae5ed1e2926ddc2779eb7e3a2",
+      "text": "/tmp/hardware-review-20261120/LM258_TI.txt",
+      "original_download_filename": "LM258_TI.pdf",
+      "local_file": "LM258_TI.pdf"
+    },
+    {
+      "filename": "LM334_ST.pdf",
+      "url": "https://www.st.com/resource/en/datasheet/lm334.pdf",
+      "refs": "U6",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://www.st.com/resource/en/datasheet/lm334.pdf",
+      "bytes": 508809,
+      "sha256": "8118b20a8e977dd1fbdcc80199487e4905320003e40e2241ef180439330a5347",
+      "text": "/tmp/hardware-review-20261120/LM334_ST.txt",
+      "original_download_filename": "LM334_ST.pdf",
+      "local_file": "LM334_ST.pdf"
+    },
+    {
+      "filename": "LM358A_LM324A_3PEAK.pdf",
+      "url": "https://static.3peak.com/res/doc/ds/Datasheet_LM321A-LM358A-LM324A.pdf",
+      "refs": "U15,U20",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://static.3peak.com/res/doc/ds/Datasheet_LM321A-LM358A-LM324A.pdf",
+      "bytes": 2021686,
+      "sha256": "0866d558737d4640a32c663fc730c45f7197f3de5386bd78243ade2e7cce3c2d",
+      "text": "/tmp/hardware-review-20261120/LM358A_LM324A_3PEAK.txt",
+      "original_download_filename": "LM358A_LM324A_3PEAK.pdf",
+      "local_file": "LM358A_LM324A_3PEAK.pdf"
+    },
+    {
+      "filename": "APM32F405xG_A_V1.5_LCSC.pdf",
+      "url": "https://atta.szlcsc.com/upload/public/pdf/source/20230316/EF88BD34FF5132870252BD70EFD3950C.pdf",
+      "refs": "U2; silicon revision pending",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://atta.szlcsc.com/upload/public/pdf/source/20230316/EF88BD34FF5132870252BD70EFD3950C.pdf",
+      "bytes": 3233813,
+      "sha256": "1b4651a47cd31cdc1c093aea2b4a77c4a9649336c9f0b6722dcb7ee0ab781f61",
+      "text": "/tmp/hardware-review-20261120/APM32F405xG_A_V1.5_LCSC.txt",
+      "original_download_filename": "APM32F405xG_A_V1.5_LCSC.pdf",
+      "local_file": "APM32F405xG_A_V1.5_LCSC.pdf"
+    },
+    {
+      "filename": "APM32F405xG_C_V1.5_Geehy.pdf",
+      "url": "https://www.geehy.com/uploads/tool/APM32F405xG%20407xExG%20C%20version%20Datasheet%20V1.5.pdf",
+      "refs": "U2; silicon revision pending",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://www.geehy.com/uploads/tool/APM32F405xG%20407xExG%20C%20version%20Datasheet%20V1.5.pdf",
+      "bytes": 3143763,
+      "sha256": "2f99723708b422c754eba9a9009d2b7e8b7d5f1e399d002c554d5d667dc4f6fa",
+      "text": "/tmp/hardware-review-20261120/APM32F405xG_C_V1.5_Geehy.txt",
+      "original_download_filename": "APM32F405xG_C_V1.5_Geehy.pdf",
+      "local_file": "APM32F405xG_C_V1.5_Geehy.pdf"
+    },
+    {
+      "filename": "W5500_WIZnet_V1.1.0.pdf",
+      "url": "https://docs.wiznet.io/img/products/w5500/W5500_ds_v110e.pdf",
+      "refs": "U9",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://docs.wiznet.io/img/products/w5500/W5500_ds_v110e.pdf",
+      "bytes": 1893745,
+      "sha256": "7b826b808084ccd986bcc22904c00a07a508ef42fb93d079fe7150a4c4f1a63d",
+      "text": "/tmp/hardware-review-20261120/W5500_WIZnet_V1.1.0.txt",
+      "original_download_filename": "W5500_WIZnet_V1.1.0.pdf",
+      "local_file": "W5500_WIZnet_V1.1.0.pdf"
+    },
+    {
+      "filename": "TLP521_UMW.pdf",
+      "url": "https://www.umw-ic.com/static/pdf/95e44aa7721c56ed6e39cccd8adce06d.pdf",
+      "refs": "U7,U8,U16,U18,U19",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://www.umw-ic.com/static/pdf/95e44aa7721c56ed6e39cccd8adce06d.pdf",
+      "bytes": 2116587,
+      "sha256": "1d1895179973785c1aa25b1f8f1d2c29fd01bf98579f2fd6e60dd3c777a8261b",
+      "text": "/tmp/hardware-review-20261120/TLP521_UMW.txt",
+      "original_download_filename": "TLP521_UMW.pdf",
+      "local_file": "TLP521_UMW.pdf"
+    },
+    {
+      "filename": "G6K_OMRON.pdf",
+      "url": "https://components.omron.com/us-en/system/files/2025-11/datasheet_pdf/K106-E1.pdf",
+      "refs": "K1",
+      "parts": [],
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "filename": "BT151S-500R_WeEn.pdf",
+      "url": "https://www.ween-semi.com/datasheet/BT151S-500R.pdf",
+      "refs": "Q1,Q2",
+      "parts": [],
+      "status": "downloaded",
+      "final_url": "https://www.ween-semi.com/datasheet/BT151S-500R.pdf",
+      "bytes": 2296628,
+      "sha256": "4eb0205adace99c0607bddb995bc31c3f593e624bafbdc53c26e047eb4a9c958",
+      "text": "/tmp/hardware-review-20261120/BT151S-500R_WeEn.txt",
+      "original_download_filename": "BT151S-500R_WeEn.pdf",
+      "local_file": "BT151S-500R_WeEn.pdf"
+    }
+  ],
+  "unresolved_html_links": [
+    {
+      "url": "https://item.szlcsc.com/datasheet/LM358A-VR/8417520.html",
+      "parts": [
+        {
+          "ref": "U15",
+          "part": "LM358A-VR",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/LM324A-TR/536799.html",
+      "parts": [
+        {
+          "ref": "U20",
+          "part": "LM324A-TR",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CGA0603X7R104K500JT/7062573.html",
+      "parts": [
+        {
+          "ref": "C28",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C3",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C4",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C5",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C6",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C7",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C8",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C13",
+          "part": "CGA0603X7R104K500JT",
+          "value": "100nF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CL10A105KO8NNNC/1944.html",
+      "parts": [
+        {
+          "ref": "C29",
+          "part": "CL10A105KO8NNNC",
+          "value": "1uF"
+        },
+        {
+          "ref": "C12",
+          "part": "CL10A105KO8NNNC",
+          "value": "1uF"
+        },
+        {
+          "ref": "C31",
+          "part": "CL10A105KO8NNNC",
+          "value": "1uF"
+        },
+        {
+          "ref": "C30",
+          "part": "CL10A105KO8NNNC",
+          "value": "1uF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/APM32F405RGT6/6031879.html",
+      "parts": [
+        {
+          "ref": "U2",
+          "part": "APM32F405RGT6",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/FRC0603F10R0TS/3180496.html",
+      "parts": [
+        {
+          "ref": "R2",
+          "part": "FRC0603F10R0TS",
+          "value": "10Ω"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/HGC0603R5225K500NTHJ/8438251.html",
+      "parts": [
+        {
+          "ref": "C14",
+          "part": "HGC0603R5225K500NTHJ",
+          "value": "2.2uF"
+        },
+        {
+          "ref": "C15",
+          "part": "HGC0603R5225K500NTHJ",
+          "value": "2.2uF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/RC0603FR-074K7L/100996.html",
+      "parts": [
+        {
+          "ref": "R47",
+          "part": "RC0603FR-074K7L",
+          "value": "1kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/HS96L03W2C03/5960631.html",
+      "parts": [
+        {
+          "ref": "U22",
+          "part": "HS96L03W2C03",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/TS-1088-AR02016/763484.html",
+      "parts": [
+        {
+          "ref": "SW1",
+          "part": "TS-1088-AR02016",
+          "value": ""
+        },
+        {
+          "ref": "SW2",
+          "part": "TS-1088-AR02016",
+          "value": ""
+        },
+        {
+          "ref": "SW3",
+          "part": "TS-1088-AR02016",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/PZ254V-11-04P/2801085.html",
+      "parts": [
+        {
+          "ref": "H2",
+          "part": "PZ254V-11-04P",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/XC32M4-8.000-F12LJDT/3026515.html",
+      "parts": [
+        {
+          "ref": "X1",
+          "part": "XC32M4-8.000-F12LJDT",
+          "value": "8MHz"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/FCC0402B104K160AT/5746970.html",
+      "parts": [
+        {
+          "ref": "C1",
+          "part": "FCC0402B104K160AT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C58",
+          "part": "FCC0402B104K160AT",
+          "value": "100nF"
+        },
+        {
+          "ref": "C73",
+          "part": "FCC0402B104K160AT",
+          "value": "100nF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CL10A105KB8NNNC/16531.html",
+      "parts": [
+        {
+          "ref": "C22",
+          "part": "CL10A105KB8NNNC",
+          "value": "1uF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CL21A475KBQNNNE/99401.html",
+      "parts": [
+        {
+          "ref": "C16",
+          "part": "CL21A475KBQNNNE",
+          "value": "4.7uF"
+        },
+        {
+          "ref": "C17",
+          "part": "CL21A475KBQNNNE",
+          "value": "4.7uF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/1N5819WS/213850.html",
+      "parts": [
+        {
+          "ref": "D7",
+          "part": "1N5819WS",
+          "value": ""
+        },
+        {
+          "ref": "D8",
+          "part": "1N5819WS",
+          "value": ""
+        },
+        {
+          "ref": "D18",
+          "part": "1N5819WS",
+          "value": ""
+        },
+        {
+          "ref": "D19",
+          "part": "1N5819WS",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/PCR0530-100-M/57092548.html",
+      "parts": [
+        {
+          "ref": "L1",
+          "part": "PCR0530-100-M",
+          "value": "10uH"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CGA0805X7R105K500MT/7062635.html",
+      "parts": [
+        {
+          "ref": "C9",
+          "part": "CGA0805X7R105K500MT",
+          "value": "1uF"
+        },
+        {
+          "ref": "C10",
+          "part": "CGA0805X7R105K500MT",
+          "value": "1uF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CL10B102KB8NNNC/1940.html",
+      "parts": [
+        {
+          "ref": "C23",
+          "part": "CL10B102KB8NNNC",
+          "value": "1nF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/ZM4734A/8524339.html",
+      "parts": [
+        {
+          "ref": "U3",
+          "part": "ZM4734A",
+          "value": ""
+        },
+        {
+          "ref": "U4",
+          "part": "ZM4734A",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/SMAJ26CA/159559.html",
+      "parts": [
+        {
+          "ref": "D3",
+          "part": "SMAJ26CA",
+          "value": ""
+        },
+        {
+          "ref": "D17",
+          "part": "SMAJ26CA",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/FCC0805B104K500DT/5746969.html",
+      "parts": [
+        {
+          "ref": "C27",
+          "part": "FCC0805B104K500DT",
+          "value": "100nF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/DLW43SH510XK2L/92784.html",
+      "parts": [
+        {
+          "ref": "FL1",
+          "part": "DLW43SH510XK2L",
+          "value": ""
+        },
+        {
+          "ref": "FL2",
+          "part": "DLW43SH510XK2L",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/SMAJ15CA/224133.html",
+      "parts": [
+        {
+          "ref": "D11",
+          "part": "SMAJ15CA",
+          "value": ""
+        },
+        {
+          "ref": "D6",
+          "part": "SMAJ15CA",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/BAV99/8397158.html",
+      "parts": [
+        {
+          "ref": "D10",
+          "part": "BAV99",
+          "value": ""
+        },
+        {
+          "ref": "D5",
+          "part": "BAV99",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/SMD1206-010-60/48798702.html",
+      "parts": [
+        {
+          "ref": "F1",
+          "part": "SMD1206-010-60",
+          "value": ""
+        },
+        {
+          "ref": "F4",
+          "part": "SMD1206-010-60",
+          "value": ""
+        },
+        {
+          "ref": "F5",
+          "part": "SMD1206-010-60",
+          "value": ""
+        },
+        {
+          "ref": "F6",
+          "part": "SMD1206-010-60",
+          "value": ""
+        },
+        {
+          "ref": "F10",
+          "part": "SMD1206-010-60",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/B0505S-3WR2/8580391.html",
+      "parts": [
+        {
+          "ref": "U13",
+          "part": "B0505S-3WR2",
+          "value": "250kHz"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/AMS1117-3.3/3170917.html",
+      "parts": [
+        {
+          "ref": "U11",
+          "part": "AMS1117-3.3",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/TLP521GB-S(UMW)/338455.html",
+      "parts": [
+        {
+          "ref": "U16",
+          "part": "TLP521GB-S(UMW)",
+          "value": ""
+        },
+        {
+          "ref": "U18",
+          "part": "TLP521GB-S(UMW)",
+          "value": ""
+        },
+        {
+          "ref": "U19",
+          "part": "TLP521GB-S(UMW)",
+          "value": ""
+        },
+        {
+          "ref": "U7",
+          "part": "TLP521GB-S(UMW)",
+          "value": ""
+        },
+        {
+          "ref": "U8",
+          "part": "TLP521GB-S(UMW)",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/FRC0805F5103TS/3279564.html",
+      "parts": [
+        {
+          "ref": "R38",
+          "part": "FRC0805F5103TS",
+          "value": "510kΩ"
+        },
+        {
+          "ref": "R3",
+          "part": "FRC0805F5103TS",
+          "value": "510kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/FRC0805F3902TS/3180775.html",
+      "parts": [
+        {
+          "ref": "R40",
+          "part": "FRC0805F3902TS",
+          "value": "39kΩ"
+        },
+        {
+          "ref": "R31",
+          "part": "FRC0805F3902TS",
+          "value": "39kΩ"
+        },
+        {
+          "ref": "R48",
+          "part": "FRC0805F3902TS",
+          "value": "78"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/S9014/774245.html",
+      "parts": [
+        {
+          "ref": "Q6",
+          "part": "S9014",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/1N4148WS/8397141.html",
+      "parts": [
+        {
+          "ref": "D20",
+          "part": "1N4148WS",
+          "value": ""
+        },
+        {
+          "ref": "D16",
+          "part": "1N4148WS",
+          "value": ""
+        },
+        {
+          "ref": "D1",
+          "part": "1N4148WS",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/1N4007W/19354320.html",
+      "parts": [
+        {
+          "ref": "D15",
+          "part": "1N4007W",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/SMBJ18A/20275658.html",
+      "parts": [
+        {
+          "ref": "U17",
+          "part": "SMBJ18A",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/RT0805BRD07200KL/775960.html",
+      "parts": [
+        {
+          "ref": "R44",
+          "part": "RT0805BRD07200KL",
+          "value": "200kΩ"
+        },
+        {
+          "ref": "R37",
+          "part": "RT0805BRD07200KL",
+          "value": "200kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CC0805KRX7R9BB102/95319.html",
+      "parts": [
+        {
+          "ref": "C56",
+          "part": "CC0805KRX7R9BB102",
+          "value": "1nF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/SMD0603-001-60/48798652.html",
+      "parts": [
+        {
+          "ref": "F7",
+          "part": "SMD0603-001-60",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/0805W8F1502T5E/18163.html",
+      "parts": [
+        {
+          "ref": "R12",
+          "part": "0805W8F1502T5E",
+          "value": "100kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/0805W8F3300T5E/18318.html",
+      "parts": [
+        {
+          "ref": "R45",
+          "part": "0805W8F3300T5E",
+          "value": "330Ω"
+        },
+        {
+          "ref": "R13",
+          "part": "0805W8F3300T5E",
+          "value": "330Ω"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/PZ254V-11-03P/3293280.html",
+      "parts": [
+        {
+          "ref": "H5",
+          "part": "PZ254V-11-03P",
+          "value": ""
+        },
+        {
+          "ref": "H6",
+          "part": "PZ254V-11-03P",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/LM334DT/151714.html",
+      "parts": [
+        {
+          "ref": "U6",
+          "part": "LM334DT",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/nSMD020-30V/70778.html",
+      "parts": [
+        {
+          "ref": "F9",
+          "part": "nSMD020-30V",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/SMD0603-002-30/48798653.html",
+      "parts": [
+        {
+          "ref": "F3",
+          "part": "SMD0603-002-30",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/KF2EDGR-5.08-14P/51565623.html",
+      "parts": [
+        {
+          "ref": "CN2",
+          "part": "KF2EDGR-5.08-14P",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/FRC0603F1003TS/3180493.html",
+      "parts": [
+        {
+          "ref": "R6",
+          "part": "FRC0603F1003TS",
+          "value": "100kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/0805W8F4703T5E/18397.html",
+      "parts": [
+        {
+          "ref": "R49",
+          "part": "0805W8F4703T5E",
+          "value": "470kΩ"
+        },
+        {
+          "ref": "R50",
+          "part": "0805W8F4703T5E",
+          "value": "470kΩ"
+        },
+        {
+          "ref": "R51",
+          "part": "0805W8F4703T5E",
+          "value": "470kΩ"
+        },
+        {
+          "ref": "R52",
+          "part": "0805W8F4703T5E",
+          "value": "470kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CL31B225KBHNNNE/51263.html",
+      "parts": [
+        {
+          "ref": "C67",
+          "part": "CL31B225KBHNNNE",
+          "value": "2.2uF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CC0805KRX7R9BB103/84334.html",
+      "parts": [
+        {
+          "ref": "C63",
+          "part": "CC0805KRX7R9BB103",
+          "value": "10nF"
+        },
+        {
+          "ref": "C68",
+          "part": "CC0805KRX7R9BB103",
+          "value": "10nF"
+        },
+        {
+          "ref": "C60",
+          "part": "CC0805KRX7R9BB103",
+          "value": "10nF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/FRC0805J272%2520TS/3180818.html",
+      "parts": [
+        {
+          "ref": "R66",
+          "part": "FRC0805J272 TS",
+          "value": "4.7kΩ"
+        },
+        {
+          "ref": "R69",
+          "part": "FRC0805J272 TS",
+          "value": "4.7kΩ"
+        },
+        {
+          "ref": "R67",
+          "part": "FRC0805J272 TS",
+          "value": "2.7kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/MRA4007T3G/48927.html",
+      "parts": [
+        {
+          "ref": "D22",
+          "part": "MRA4007T3G",
+          "value": ""
+        },
+        {
+          "ref": "D21",
+          "part": "MRA4007T3G",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/RE0805FAR000/54649545.html",
+      "parts": [
+        {
+          "ref": "R56",
+          "part": "RE0805FAR000",
+          "value": "0Ω"
+        },
+        {
+          "ref": "R57",
+          "part": "RE0805FAR000",
+          "value": "0Ω"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/DSS14/3237738.html",
+      "parts": [
+        {
+          "ref": "D4",
+          "part": "DSS14",
+          "value": ""
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/CL31B104KBCNNNC/25237.html",
+      "parts": [
+        {
+          "ref": "C59",
+          "part": "CL31B104KBCNNNC",
+          "value": "100nF"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/0805W8F8202T5E/18528.html",
+      "parts": [
+        {
+          "ref": "R64",
+          "part": "0805W8F8202T5E",
+          "value": "82kΩ"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    },
+    {
+      "url": "https://item.szlcsc.com/datasheet/1206W4F510JT5E/18707.html",
+      "parts": [
+        {
+          "ref": "R65",
+          "part": "1206W4F510JT5E",
+          "value": "51Ω"
+        }
+      ],
+      "status": "HTML link; direct PDF pending (LCSC returned HTTP405 in sample requests)"
+    }
+  ],
+  "no_datasheet": [
+    {
+      "ref": "R15",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R14",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R1",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R16",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R11",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "C32",
+      "part": "CAP_0603"
+    },
+    {
+      "ref": "R7",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R33",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R80",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R81",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R82",
+      "part": "FRC0603F1002TS"
+    },
+    {
+      "ref": "R39",
+      "part": "FRP1206F1200TS"
+    },
+    {
+      "ref": "R29",
+      "part": "FRP1206F1200TS"
+    },
+    {
+      "ref": "R30",
+      "part": "FRC0805J6R8 TS"
+    },
+    {
+      "ref": "R35",
+      "part": "FRC0805F1001TS"
+    },
+    {
+      "ref": "R43",
+      "part": "FRC0805F1004TS"
+    },
+    {
+      "ref": "R10",
+      "part": "FRC0603F2492TS"
+    },
+    {
+      "ref": "TP2",
+      "part": "Test-Point"
+    },
+    {
+      "ref": "TP3",
+      "part": "Test-Point"
+    },
+    {
+      "ref": "R53",
+      "part": "FRC2512F1001TS"
+    },
+    {
+      "ref": "R59",
+      "part": "FRC0805F1002TS"
+    },
+    {
+      "ref": "R63",
+      "part": "FRC0805F1002TS"
+    },
+    {
+      "ref": "R62",
+      "part": "FRC0805F5102TS"
+    },
+    {
+      "ref": "R54",
+      "part": "FRC0805F5102TS"
+    },
+    {
+      "ref": "R58",
+      "part": "FRC0805F5102TS"
+    },
+    {
+      "ref": "TP4",
+      "part": "Test-Point"
+    },
+    {
+      "ref": "TP5",
+      "part": "Test-Point"
+    },
+    {
+      "ref": "TP6",
+      "part": "Test-Point"
+    },
+    {
+      "ref": "TP7",
+      "part": "Test-Point"
+    }
+  ],
+  "component_documents": [
+    {
+      "part": "LM358A-VR",
+      "refs": [
+        "U15"
+      ],
+      "codes": [
+        "C7426825"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/LM358A-VR/8417520.html"
+      ],
+      "status": "covered",
+      "files": [
+        "LM358A_LM324A_3PEAK.pdf"
+      ]
+    },
+    {
+      "part": "LM324A-TR",
+      "refs": [
+        "U20"
+      ],
+      "codes": [
+        "C520193"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/LM324A-TR/536799.html"
+      ],
+      "status": "covered",
+      "files": [
+        "LM358A_LM324A_3PEAK.pdf"
+      ]
+    },
+    {
+      "part": "B2B-XH-A(LF)(SN)",
+      "refs": [
+        "CN1"
+      ],
+      "codes": [
+        "C158012"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20180928/C265283_F9DFEEBDB2CF642B6BDFAB4B77BD2680.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "B2B-XH-A_LF_SN__6fe93e47.pdf"
+      ]
+    },
+    {
+      "part": "0805B104K500NT",
+      "refs": [
+        "C33",
+        "C34",
+        "C35",
+        "C36",
+        "C37",
+        "C38",
+        "C39",
+        "C40",
+        "C49",
+        "C43",
+        "C48",
+        "C53",
+        "C50",
+        "C51"
+      ],
+      "codes": [
+        "C38141"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C38141_1506149447419988747.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805B103K500NT_bf74b8e9.pdf"
+      ]
+    },
+    {
+      "part": "0805X106K250NT",
+      "refs": [
+        "E2",
+        "E3",
+        "E4",
+        "E1",
+        "E5",
+        "E6",
+        "E7"
+      ],
+      "codes": [
+        "C40894"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C40894_1506149452994988759.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805B103K500NT_bf74b8e9.pdf"
+      ]
+    },
+    {
+      "part": "W5500",
+      "refs": [
+        "U9"
+      ],
+      "codes": [
+        "C32843"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20140704/1457707126739.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "W5500_3093488a.pdf"
+      ]
+    },
+    {
+      "part": "0805W8F1002T5E",
+      "refs": [
+        "R19",
+        "R18",
+        "R17",
+        "R28",
+        "R27",
+        "R41"
+      ],
+      "codes": [
+        "C17414"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C17414_1505887067106979773.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf",
+        "0805W8F1002T5E_504fd6ae.pdf"
+      ]
+    },
+    {
+      "part": "CL21A475KAQNNNE",
+      "refs": [
+        "C41"
+      ],
+      "codes": [
+        "C1779"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707696447.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ]
+    },
+    {
+      "part": "0805B103K500NT",
+      "refs": [
+        "C42",
+        "C46"
+      ],
+      "codes": [
+        "C52278"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C52278_1506149485247988826.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805B103K500NT_bf74b8e9.pdf"
+      ]
+    },
+    {
+      "part": "0805B682K500NT",
+      "refs": [
+        "C44",
+        "C45"
+      ],
+      "codes": [
+        "C1755"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1755_1506149343126988525.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805B103K500NT_bf74b8e9.pdf"
+      ]
+    },
+    {
+      "part": "0805W8J0820T5E",
+      "refs": [
+        "R20",
+        "R21"
+      ],
+      "codes": [
+        "C25329"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "0805W8F499JT5E",
+      "refs": [
+        "R22",
+        "R23"
+      ],
+      "codes": [
+        "C17720"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "0805W8F100JT5E",
+      "refs": [
+        "R24"
+      ],
+      "codes": [
+        "C17415"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "CL21B223KBANNNC",
+      "refs": [
+        "C47"
+      ],
+      "codes": [
+        "C1729"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707694628.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ]
+    },
+    {
+      "part": "0805W8F4700T5E",
+      "refs": [
+        "R25",
+        "R26"
+      ],
+      "codes": [
+        "C17710"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "RC-ML08W103JT",
+      "refs": [
+        "RN1"
+      ],
+      "codes": [
+        "C69593"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20171225/C69593_15141884772841203313.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "RC-ML08W103JT_5c2dadd2.pdf"
+      ]
+    },
+    {
+      "part": "CBW321609U601T",
+      "refs": [
+        "L4"
+      ],
+      "codes": [
+        "C73732"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160606/1465200211209.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CBW321609U601T_36628ebf.pdf"
+      ]
+    },
+    {
+      "part": "HR911105A",
+      "refs": [
+        "J1"
+      ],
+      "codes": [
+        "C12074"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20170918/C12074_1505726819496976146.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "HR911105A_6f28a7a2.pdf"
+      ]
+    },
+    {
+      "part": "CGA0603X7R104K500JT",
+      "refs": [
+        "C28",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C13",
+        "C19",
+        "C18",
+        "C57"
+      ],
+      "codes": [
+        "C6119867"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CGA0603X7R104K500JT/7062573.html",
+        "https://atta.szlcsc.com/upload/public/pdf/source/20250103/C44077DA9E7B3EFAE02F22B6D3D1CBC9.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CGA0603X7R104K500JT_7982375c.pdf"
+      ]
+    },
+    {
+      "part": "TPL5010DDCR",
+      "refs": [
+        "U12"
+      ],
+      "codes": [
+        "C473912"
+      ],
+      "original_links": [
+        "https://www.ti.com/cn/lit/gpn/tpl5010"
+      ],
+      "status": "covered",
+      "files": [
+        "TPL5010DDCR_e5ffe45c.pdf"
+      ]
+    },
+    {
+      "part": "FRC0603F1002TS",
+      "refs": [
+        "R15",
+        "R14",
+        "R1",
+        "R16",
+        "R11",
+        "R7",
+        "R33",
+        "R80",
+        "R81",
+        "R82"
+      ],
+      "codes": [
+        "C2906982"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2906982",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2906982",
+      "product_page": "https://www.lcsc.com/product-detail/C2906982.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0603F1002TS_C2906982.txt"
+    },
+    {
+      "part": "CL10A105KO8NNNC",
+      "refs": [
+        "C29",
+        "C12",
+        "C31",
+        "C30"
+      ],
+      "codes": [
+        "C1592"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CL10A105KO8NNNC/1944.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CL10A105KO8NNNC_C1592.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/38efca1d3b6dfb0dc8842eab70f4a316.pdf?productCode=C1592",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/38efca1d3b6dfb0dc8842eab70f4a316.pdf?productCode=C1592",
+      "product_page": "https://www.lcsc.com/product-detail/C1592.html",
+      "bytes": 1386931,
+      "sha256": "a791c251fda5d6b38c1a4f9e41cc4e81e9d55fef6f1f3f6595e9cc27cd264e14",
+      "text": "/tmp/hardware-review-20261120/CL10A105KO8NNNC_C1592.txt"
+    },
+    {
+      "part": "OT322525MJBA4SL",
+      "refs": [
+        "X3"
+      ],
+      "codes": [
+        "C669088"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20210329/C669065_30B18CFE780D377BA4E84F6ED1951959.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "OT322525MJBA4SL_56a049ad.pdf"
+      ]
+    },
+    {
+      "part": "APM32F405RGT6",
+      "refs": [
+        "U2"
+      ],
+      "codes": [
+        "C5290473"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/APM32F405RGT6/6031879.html"
+      ],
+      "status": "covered",
+      "files": [
+        "APM32F405xG_C_V1.5_Geehy.pdf"
+      ]
+    },
+    {
+      "part": "FRC0603F10R0TS",
+      "refs": [
+        "R2"
+      ],
+      "codes": [
+        "C2906983"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/FRC0603F10R0TS/3180496.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2906983",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2906983",
+      "product_page": "https://www.lcsc.com/product-detail/C2906983.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0603F10R0TS_C2906983.txt"
+    },
+    {
+      "part": "HGC0603R5225K500NTHJ",
+      "refs": [
+        "C14",
+        "C15"
+      ],
+      "codes": [
+        "C7432769"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/HGC0603R5225K500NTHJ/8438251.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "HGC0603R5225K500NTHJ_C7432769.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/3025399970486160f9625970e5fd5973.pdf?productCode=C7432769",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/3025399970486160f9625970e5fd5973.pdf?productCode=C7432769",
+      "product_page": "https://www.lcsc.com/product-detail/C7432769.html",
+      "bytes": 1308602,
+      "sha256": "2a65c5df4a25687fa36b08d01cc0b973624d826174c731e8ba42d1ead0ad81a2",
+      "text": "/tmp/hardware-review-20261120/HGC0603R5225K500NTHJ_C7432769.txt"
+    },
+    {
+      "part": "CAP_0603",
+      "refs": [
+        "C32"
+      ],
+      "codes": [],
+      "original_links": [],
+      "status": "unresolved",
+      "reason": "C32 is a generic 4.7uF 0603 symbol without manufacturer, voltage rating or supplier code. Actual device selection pending; exact datasheet cannot be identified."
+    },
+    {
+      "part": "0603CG200J101NT",
+      "refs": [
+        "C11",
+        "C24"
+      ],
+      "codes": [
+        "C2762329"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20211026/1B9CC6FF40D574A190437DF0D5F8F6A6.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0603CG200J101NT_9cd80dcf.pdf"
+      ]
+    },
+    {
+      "part": "KT-0603R",
+      "refs": [
+        "LED1",
+        "LED2"
+      ],
+      "codes": [
+        "C2286"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160616/1466072038404.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "KT-0603R_6a30968b.pdf"
+      ]
+    },
+    {
+      "part": "RC0603FR-074K7L",
+      "refs": [
+        "R47"
+      ],
+      "codes": [],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/RC0603FR-074K7L/100996.html"
+      ],
+      "status": "series_document",
+      "reason": "No supplier code; exact document pending",
+      "files": [
+        "RC0603FR-0739KL_6450037d.pdf"
+      ],
+      "scope_note": "YAGEO RC series document; does not resolve R47 1k versus 4.7k conflict"
+    },
+    {
+      "part": "HS96L03W2C03",
+      "refs": [
+        "U22"
+      ],
+      "codes": [
+        "C5248080"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/HS96L03W2C03/5960631.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "HS96L03W2C03_C5248080.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/4cfb1fe29ff7e4fbff30eb4e2a452c3a.pdf?productCode=C5248080",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/4cfb1fe29ff7e4fbff30eb4e2a452c3a.pdf?productCode=C5248080",
+      "product_page": "https://www.lcsc.com/product-detail/C5248080.html",
+      "bytes": 1839100,
+      "sha256": "370328a8c5a1df6181d15da916e4ac31b23f812cc093ccef79a9836794ec4c45",
+      "text": "/tmp/hardware-review-20261120/HS96L03W2C03_C5248080.txt"
+    },
+    {
+      "part": "TS-1088-AR02016",
+      "refs": [
+        "SW1",
+        "SW2",
+        "SW3"
+      ],
+      "codes": [
+        "C720477"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/TS-1088-AR02016/763484.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "TS-1088-AR02016_C720477.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/0475ac02febf455ca9ddcfb380b0df0d.pdf?productCode=C720477",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/0475ac02febf455ca9ddcfb380b0df0d.pdf?productCode=C720477",
+      "product_page": "https://www.lcsc.com/product-detail/C720477.html",
+      "bytes": 123213,
+      "sha256": "368d4cc2c26b08cb63e1b67193f671d0860b6d3fb2e6b9f2696ffade401afc30",
+      "text": "/tmp/hardware-review-20261120/TS-1088-AR02016_C720477.txt"
+    },
+    {
+      "part": "PZ254V-11-04P",
+      "refs": [
+        "H2"
+      ],
+      "codes": [
+        "C2691448"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/PZ254V-11-04P/2801085.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "PZ254V-11-03P_C2937625.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/3b85a1cdf6ed945f2e278f00c1e42442.pdf?productCode=C2691448",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/3b85a1cdf6ed945f2e278f00c1e42442.pdf?productCode=C2691448",
+      "product_page": "https://www.lcsc.com/product-detail/C2691448.html",
+      "bytes": 138867,
+      "sha256": "d4cb67e0fd15267bd26f8e782f79b44bc2c8e05fd2ac63c5a88712860c9aacd0",
+      "text": "/tmp/hardware-review-20261120/PZ254V-11-04P_C2691448.txt"
+    },
+    {
+      "part": "XC32M4-8.000-F12LJDT",
+      "refs": [
+        "X1"
+      ],
+      "codes": [
+        "C2842191"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/XC32M4-8.000-F12LJDT/3026515.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "XC32M4-8.000-F12LJDT_C2842191.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/d2f37d2fac78d1d5d89a7432e8c23baa.pdf?productCode=C2842191",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/d2f37d2fac78d1d5d89a7432e8c23baa.pdf?productCode=C2842191",
+      "product_page": "https://www.lcsc.com/product-detail/C2842191.html",
+      "bytes": 321466,
+      "sha256": "97563fdaed801469aa85e1fc049564614e514015ad979f5ea6fbec40b725c111",
+      "text": "/tmp/hardware-review-20261120/XC32M4-8.000-F12LJDT_C2842191.txt"
+    },
+    {
+      "part": "FCC0402B104K160AT",
+      "refs": [
+        "C1",
+        "C58",
+        "C73"
+      ],
+      "codes": [
+        "C5137468"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/FCC0402B104K160AT/5746970.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "FCC0402B104K160AT_C5137468.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/96dc633700d86f8cae045018479f71b7.pdf?productCode=C5137468",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/96dc633700d86f8cae045018479f71b7.pdf?productCode=C5137468",
+      "product_page": "https://www.lcsc.com/product-detail/C5137468.html",
+      "bytes": 2038531,
+      "sha256": "5346c60a22302510521f6501c3bb6f4c9eec668959c8f84a1ddf6713c4ec6e7a",
+      "text": "/tmp/hardware-review-20261120/FCC0402B104K160AT_C5137468.txt"
+    },
+    {
+      "part": "LMR33630ADDAR",
+      "refs": [
+        "U5"
+      ],
+      "codes": [
+        "C841384"
+      ],
+      "original_links": [
+        "https://www.ti.com/cn/lit/gpn/lmr33630"
+      ],
+      "status": "covered",
+      "files": [
+        "LMR33630ADDAR_e50fe833.pdf"
+      ]
+    },
+    {
+      "part": "CL10A105KB8NNNC",
+      "refs": [
+        "C22"
+      ],
+      "codes": [
+        "C15849"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CL10A105KB8NNNC/16531.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C15849",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C15849",
+      "product_page": "https://www.lcsc.com/product-detail/C15849.html",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL10A105KB8NNNC_C15849.txt"
+    },
+    {
+      "part": "BSMD0805-050-15V",
+      "refs": [
+        "F2"
+      ],
+      "codes": [
+        "C883109"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20230512/7A46D6CD923C15CBB98FD769C08EDD80.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "BSMD0805-050-15V_94dd4f9f.pdf"
+      ]
+    },
+    {
+      "part": "CL21A475KBQNNNE",
+      "refs": [
+        "C16",
+        "C17"
+      ],
+      "codes": [
+        "C98192"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CL21A475KBQNNNE/99401.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C98192",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C98192",
+      "product_page": "https://www.lcsc.com/product-detail/C98192.html",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL21A475KBQNNNE_C98192.txt"
+    },
+    {
+      "part": "0603WAF2003T5E",
+      "refs": [
+        "R5"
+      ],
+      "codes": [
+        "C25811"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "0805W8F2001T5E",
+      "refs": [
+        "R8",
+        "R9",
+        "R36"
+      ],
+      "codes": [
+        "C17604"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "BT151S-500R,118",
+      "refs": [
+        "Q1",
+        "Q2"
+      ],
+      "codes": [
+        "C909686"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20201023/C909686_0B35B9AF067EED6C5B9ABE2201E4480A.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "BT151S-500R_118_669e90a9.pdf"
+      ]
+    },
+    {
+      "part": "0603WAF3902T5E",
+      "refs": [
+        "R4"
+      ],
+      "codes": [],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "1N5819WS",
+      "refs": [
+        "D7",
+        "D8",
+        "D18",
+        "D19"
+      ],
+      "codes": [
+        "C191023"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/1N5819WS/213850.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "1N5819WS_C191023.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/c7a6590686b7be2f86b8eed4480e569c.pdf?productCode=C191023",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/c7a6590686b7be2f86b8eed4480e569c.pdf?productCode=C191023",
+      "product_page": "https://www.lcsc.com/product-detail/C191023.html",
+      "bytes": 1157833,
+      "sha256": "609a5bc2fcd5bbb36f47f802b11102f1e140eae519c74b067cb615b4d52d0a4f",
+      "text": "/tmp/hardware-review-20261120/1N5819WS_C191023.txt"
+    },
+    {
+      "part": "YLCM4532EL-510T",
+      "refs": [
+        "L7",
+        "L2"
+      ],
+      "codes": [
+        "C4945089"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20220720/7B6357585E0C0A356762F5F2E33C9CF5.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "YLCM4532EL-510T_bce91b64.pdf"
+      ]
+    },
+    {
+      "part": "PCR0530-100-M",
+      "refs": [
+        "L1"
+      ],
+      "codes": [
+        "C53896866"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/PCR0530-100-M/57092548.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "PCR0530-100-M_C53896866.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/cbfd98b505dd1f06d1a7ac13a4fa9b68.pdf?productCode=C53896866",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/cbfd98b505dd1f06d1a7ac13a4fa9b68.pdf?productCode=C53896866",
+      "product_page": "https://www.lcsc.com/product-detail/C53896866.html",
+      "bytes": 506957,
+      "sha256": "ff18b1a0766cc1780e1253bb05370837861183b112d2850e21db49de1a678d7f",
+      "text": "/tmp/hardware-review-20261120/PCR0530-100-M_C53896866.txt"
+    },
+    {
+      "part": "CGA0805X7R105K500MT",
+      "refs": [
+        "C9",
+        "C10"
+      ],
+      "codes": [
+        "C6119929"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CGA0805X7R105K500MT/7062635.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CGA0805X7R105K500MT_C6119929.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/1c2bf9808176363808fc260ea6e8568a.pdf?productCode=C6119929",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/1c2bf9808176363808fc260ea6e8568a.pdf?productCode=C6119929",
+      "product_page": "https://www.lcsc.com/product-detail/C6119929.html",
+      "bytes": 1281044,
+      "sha256": "5b1ae732cf1479ef5ab051ee843dff7f95f3e1ed0f3080c4fa72b1a074c49a15",
+      "text": "/tmp/hardware-review-20261120/CGA0805X7R105K500MT_C6119929.txt"
+    },
+    {
+      "part": "CL10B102KB8NNNC",
+      "refs": [
+        "C23"
+      ],
+      "codes": [
+        "C1588"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CL10B102KB8NNNC/1940.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1588",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1588",
+      "product_page": "https://www.lcsc.com/product-detail/C1588.html",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL10B102KB8NNNC_C1588.txt"
+    },
+    {
+      "part": "ZM4734A",
+      "refs": [
+        "U3",
+        "U4"
+      ],
+      "codes": [
+        "C7471235"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/ZM4734A/8524339.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "ZM4734A_C7471235.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/7fd592cacef632346d57a2f81d96aea2.pdf?productCode=C7471235",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/7fd592cacef632346d57a2f81d96aea2.pdf?productCode=C7471235",
+      "product_page": "https://www.lcsc.com/product-detail/C7471235.html",
+      "bytes": 501631,
+      "sha256": "c2b2d9b96c497859599f0b0ff2942c2eff7ecc8f4cc8ef90b8c9728f2b2809ad",
+      "text": "/tmp/hardware-review-20261120/ZM4734A_C7471235.txt"
+    },
+    {
+      "part": "SMAJ26CA",
+      "refs": [
+        "D3",
+        "D17"
+      ],
+      "codes": [
+        "C148226"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/SMAJ26CA/159559.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "SMAJ15CA_C223985.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/bf298e2c0542e0172af23908598fa548.pdf?productCode=C148226",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/bf298e2c0542e0172af23908598fa548.pdf?productCode=C148226",
+      "product_page": "https://www.lcsc.com/product-detail/C148226.html",
+      "bytes": 1009698,
+      "sha256": "3f987f8fc0988aae0f14259b9d1953f26bdfe2525bbc4fc636477f6b221fc38a",
+      "text": "/tmp/hardware-review-20261120/SMAJ26CA_C148226.txt"
+    },
+    {
+      "part": "TAJA106K016RNJ",
+      "refs": [
+        "C25",
+        "C26",
+        "C55"
+      ],
+      "codes": [
+        "C7171"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160107/1457707748093.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "TAJA106K016RNJ_df62eb10.pdf"
+      ]
+    },
+    {
+      "part": "FCC0805B104K500DT",
+      "refs": [
+        "C27"
+      ],
+      "codes": [
+        "C5137467"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/FCC0805B104K500DT/5746969.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "FCC0402B104K160AT_C5137468.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/96dc633700d86f8cae045018479f71b7.pdf?productCode=C5137467",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/96dc633700d86f8cae045018479f71b7.pdf?productCode=C5137467",
+      "product_page": "https://www.lcsc.com/product-detail/C5137467.html",
+      "bytes": 2038531,
+      "sha256": "5346c60a22302510521f6501c3bb6f4c9eec668959c8f84a1ddf6713c4ec6e7a",
+      "text": "/tmp/hardware-review-20261120/FCC0805B104K500DT_C5137467.txt"
+    },
+    {
+      "part": "CA-IS3062W",
+      "refs": [
+        "U1",
+        "U10"
+      ],
+      "codes": [
+        "C2890050"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20220506/1B37B7024FA65B6EFA4260730BFA4228.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CA-IS3062W_ef7be912.pdf"
+      ]
+    },
+    {
+      "part": "CL21B105KBFNNNE",
+      "refs": [
+        "C52",
+        "C54"
+      ],
+      "codes": [
+        "C28323"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707763339.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ]
+    },
+    {
+      "part": "PESD2CAN",
+      "refs": [
+        "D12",
+        "D13",
+        "D9",
+        "D14"
+      ],
+      "codes": [
+        "C284078"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20180918/C284078_DC297CB2BF89271044F07577A109ECB3.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "PESD2CAN_4ccb1412.pdf"
+      ]
+    },
+    {
+      "part": "DLW43SH510XK2L",
+      "refs": [
+        "FL1",
+        "FL2"
+      ],
+      "codes": [
+        "C91595"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/DLW43SH510XK2L/92784.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "DLW43SH510XK2L_C91595.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/9ba22cf3da184e6d95747b56ae61dd27.pdf?productCode=C91595",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/9ba22cf3da184e6d95747b56ae61dd27.pdf?productCode=C91595",
+      "product_page": "https://www.lcsc.com/product-detail/C91595.html",
+      "bytes": 301120,
+      "sha256": "8b1e026091a822923a17a11eb5eb3adbba01d29215a2953d3a665db1a609d604",
+      "text": "/tmp/hardware-review-20261120/DLW43SH510XK2L_C91595.txt"
+    },
+    {
+      "part": "SMAJ15CA",
+      "refs": [
+        "D11",
+        "D6"
+      ],
+      "codes": [
+        "C223985"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/SMAJ15CA/224133.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "SMAJ15CA_C223985.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/bf298e2c0542e0172af23908598fa548.pdf?productCode=C223985",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/bf298e2c0542e0172af23908598fa548.pdf?productCode=C223985",
+      "product_page": "https://www.lcsc.com/product-detail/C223985.html",
+      "bytes": 1009698,
+      "sha256": "3f987f8fc0988aae0f14259b9d1953f26bdfe2525bbc4fc636477f6b221fc38a",
+      "text": "/tmp/hardware-review-20261120/SMAJ15CA_C223985.txt"
+    },
+    {
+      "part": "BAV99",
+      "refs": [
+        "D10",
+        "D5"
+      ],
+      "codes": [
+        "C7420336"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/BAV99/8397158.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "BAV99_C7420336.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/e727cf2ca6f9dcee45daf62a82eb58de.pdf?productCode=C7420336",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/e727cf2ca6f9dcee45daf62a82eb58de.pdf?productCode=C7420336",
+      "product_page": "https://www.lcsc.com/product-detail/C7420336.html",
+      "bytes": 230495,
+      "sha256": "dd9e0c7e48eb57de3562154a09de064485d72c474c0c2a233d7b0b0051d8b33d",
+      "text": "/tmp/hardware-review-20261120/BAV99_C7420336.txt"
+    },
+    {
+      "part": "FRP1206F1200TS",
+      "refs": [
+        "R39",
+        "R29"
+      ],
+      "codes": [
+        "C5713417"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRP1206F1200TS_C5713417.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/489c198fa8a2dcb8e174d477e7ad4924.pdf?productCode=C5713417",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/489c198fa8a2dcb8e174d477e7ad4924.pdf?productCode=C5713417",
+      "product_page": "https://www.lcsc.com/product-detail/C5713417.html",
+      "bytes": 901123,
+      "sha256": "5709df0c42d51df853d927a3fa749b9ad00ec0443aded439ae2599e3d89cfdf9",
+      "text": "/tmp/hardware-review-20261120/FRP1206F1200TS_C5713417.txt"
+    },
+    {
+      "part": "SMD1206-010-60",
+      "refs": [
+        "F1",
+        "F4",
+        "F5",
+        "F6",
+        "F10"
+      ],
+      "codes": [
+        "C46640996"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/SMD1206-010-60/48798702.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "SMD1206-010-60_C46640996.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/3d2a4b4d35dfeedadf5874b437e250c3.pdf?productCode=C46640996",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/3d2a4b4d35dfeedadf5874b437e250c3.pdf?productCode=C46640996",
+      "product_page": "https://www.lcsc.com/product-detail/C46640996.html",
+      "bytes": 317347,
+      "sha256": "ac89288fcdc8403c272ba798bd0d23a7e3c594ff5b1ee6dfc8cb1d731ff452f9",
+      "text": "/tmp/hardware-review-20261120/SMD1206-010-60_C46640996.txt"
+    },
+    {
+      "part": "B0505S-3WR2",
+      "refs": [
+        "U13"
+      ],
+      "codes": [
+        "C7500927"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/B0505S-3WR2/8580391.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "B0505S-3WR2_C7500927.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/aab3bda043a3c554b334c9706664650c.pdf?productCode=C7500927",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/aab3bda043a3c554b334c9706664650c.pdf?productCode=C7500927",
+      "product_page": "https://www.lcsc.com/product-detail/C7500927.html",
+      "bytes": 584104,
+      "sha256": "38d2aece0881cd41f7c200eaea5d2d0b742ff661aeb760871eaab4473eefab93",
+      "text": "/tmp/hardware-review-20261120/B0505S-3WR2_C7500927.txt"
+    },
+    {
+      "part": "AMS1117-3.3",
+      "refs": [
+        "U11"
+      ],
+      "codes": [
+        "C2904742"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/AMS1117-3.3/3170917.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "AMS1117-3.3_C2904742.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/cf627e4cbca5d047cd87af1653251598.pdf?productCode=C2904742",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/cf627e4cbca5d047cd87af1653251598.pdf?productCode=C2904742",
+      "product_page": "https://www.lcsc.com/product-detail/C2904742.html",
+      "bytes": 2651678,
+      "sha256": "3fcf6f5a7b801c9ae51470753f0ce8ef08691930a7d4b4940a2d33b16adb2a14",
+      "text": "/tmp/hardware-review-20261120/AMS1117-3.3_C2904742.txt"
+    },
+    {
+      "part": "FRC0805J6R8 TS",
+      "refs": [
+        "R30"
+      ],
+      "codes": [
+        "C2907339"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907339",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907339",
+      "product_page": "https://www.lcsc.com/product-detail/C2907339.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805J6R8_TS_C2907339.txt"
+    },
+    {
+      "part": "TLP521GB-S(UMW)",
+      "refs": [
+        "U16",
+        "U18",
+        "U19",
+        "U7",
+        "U8"
+      ],
+      "codes": [
+        "C364143"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/TLP521GB-S(UMW)/338455.html"
+      ],
+      "status": "covered",
+      "files": [
+        "TLP521_UMW.pdf"
+      ]
+    },
+    {
+      "part": "FRC0805F5103TS",
+      "refs": [
+        "R38",
+        "R3"
+      ],
+      "codes": [
+        "C2933462"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/FRC0805F5103TS/3279564.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2933462",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2933462",
+      "product_page": "https://www.lcsc.com/product-detail/C2933462.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805F5103TS_C2933462.txt"
+    },
+    {
+      "part": "FRC0805F3902TS",
+      "refs": [
+        "R40",
+        "R31",
+        "R48"
+      ],
+      "codes": [
+        "C2907262"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/FRC0805F3902TS/3180775.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907262",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907262",
+      "product_page": "https://www.lcsc.com/product-detail/C2907262.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805F3902TS_C2907262.txt"
+    },
+    {
+      "part": "S9014",
+      "refs": [
+        "Q6"
+      ],
+      "codes": [
+        "C727140"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/S9014/774245.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "S9014_C727140.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/c22ead1d5d0f92b0851f12e98a30a605.pdf?productCode=C727140",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/c22ead1d5d0f92b0851f12e98a30a605.pdf?productCode=C727140",
+      "product_page": "https://www.lcsc.com/product-detail/C727140.html",
+      "bytes": 1750661,
+      "sha256": "2b0bbf6140efc1f5e0b26f49a1be6c6c91cc6c1e72cbe4ff570de504a22c1135",
+      "text": "/tmp/hardware-review-20261120/S9014_C727140.txt"
+    },
+    {
+      "part": "FRC0805F1001TS",
+      "refs": [
+        "R35"
+      ],
+      "codes": [
+        "C2907232"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907232",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907232",
+      "product_page": "https://www.lcsc.com/product-detail/C2907232.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805F1001TS_C2907232.txt"
+    },
+    {
+      "part": "1N4148WS",
+      "refs": [
+        "D20",
+        "D16",
+        "D1"
+      ],
+      "codes": [
+        "C7420319"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/1N4148WS/8397141.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "1N4148WS_C7420319.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/e54430b9dff955f248e12e3d8b1d93fb.pdf?productCode=C7420319",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/e54430b9dff955f248e12e3d8b1d93fb.pdf?productCode=C7420319",
+      "product_page": "https://www.lcsc.com/product-detail/C7420319.html",
+      "bytes": 237443,
+      "sha256": "1a077bbb6de3db618f03f5b19fa80a5471a00e53639a8de8ed0e5dba06d8e316",
+      "text": "/tmp/hardware-review-20261120/1N4148WS_C7420319.txt"
+    },
+    {
+      "part": "1N4007W",
+      "refs": [
+        "D15"
+      ],
+      "codes": [
+        "C18199088"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/1N4007W/19354320.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "1N4007W_C18199088.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/a025fa6b3462594e6683351f7172c002.pdf?productCode=C18199088",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/a025fa6b3462594e6683351f7172c002.pdf?productCode=C18199088",
+      "product_page": "https://www.lcsc.com/product-detail/C18199088.html",
+      "bytes": 228272,
+      "sha256": "c1078ae26cb8af2f84f1c802ee8a4fb3d1dd25fe5b45aaa8bd894a6c86985d0d",
+      "text": "/tmp/hardware-review-20261120/1N4007W_C18199088.txt"
+    },
+    {
+      "part": "SMBJ18A",
+      "refs": [
+        "U17"
+      ],
+      "codes": [
+        "C19077573"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/SMBJ18A/20275658.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "SMBJ18A_C19077573.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/29e006ceaae5808e6d17d021de7bda89.pdf?productCode=C19077573",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/29e006ceaae5808e6d17d021de7bda89.pdf?productCode=C19077573",
+      "product_page": "https://www.lcsc.com/product-detail/C19077573.html",
+      "bytes": 294303,
+      "sha256": "3a3b185ee9f21932d5b2c70f5eb21f5f680c3bef1c2e5d2741a7b849bf1d2e39",
+      "text": "/tmp/hardware-review-20261120/SMBJ18A_C19077573.txt"
+    },
+    {
+      "part": "FRC0805F1004TS",
+      "refs": [
+        "R43"
+      ],
+      "codes": [
+        "C2933280"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2933280",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2933280",
+      "product_page": "https://www.lcsc.com/product-detail/C2933280.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805F1004TS_C2933280.txt"
+    },
+    {
+      "part": "RT0805BRD07200KL",
+      "refs": [
+        "R44",
+        "R37"
+      ],
+      "codes": [
+        "C728645"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/RT0805BRD07200KL/775960.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "RT0805BRD07200KL_C728645.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/46d7760c582640714d605308a25a220a.pdf?productCode=C728645",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/46d7760c582640714d605308a25a220a.pdf?productCode=C728645",
+      "product_page": "https://www.lcsc.com/product-detail/C728645.html",
+      "bytes": 459826,
+      "sha256": "0a729d144519a7021c82a0ef242b064e467c70d44afcf9eabd6c7ffdc4b673a3",
+      "text": "/tmp/hardware-review-20261120/RT0805BRD07200KL_C728645.txt"
+    },
+    {
+      "part": "CC0805KRX7R9BB102",
+      "refs": [
+        "C56"
+      ],
+      "codes": [
+        "C94121"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CC0805KRX7R9BB102/95319.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CC0805KRX7R9BB102_C94121.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/23ccee80ee542e7cf156a772bb589942.pdf?productCode=C94121",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/23ccee80ee542e7cf156a772bb589942.pdf?productCode=C94121",
+      "product_page": "https://www.lcsc.com/product-detail/C94121.html",
+      "bytes": 1131214,
+      "sha256": "61a606825ab314ea318cfb5362848a62fdffb851efa9818d642e9a541c56a648",
+      "text": "/tmp/hardware-review-20261120/CC0805KRX7R9BB102_C94121.txt"
+    },
+    {
+      "part": "SMD0603-001-60",
+      "refs": [
+        "F7"
+      ],
+      "codes": [
+        "C46640946"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/SMD0603-001-60/48798652.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "SMD0603-001-60_C46640946.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/177735abf81f1d0ca3dd64d465ded213.pdf?productCode=C46640946",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/177735abf81f1d0ca3dd64d465ded213.pdf?productCode=C46640946",
+      "product_page": "https://www.lcsc.com/product-detail/C46640946.html",
+      "bytes": 271188,
+      "sha256": "fa7ebd4833c040449b931fa0d8c410bc21aaff8da34d62ebd17153a5b99b5b91",
+      "text": "/tmp/hardware-review-20261120/SMD0603-001-60_C46640946.txt"
+    },
+    {
+      "part": "0805W8F1502T5E",
+      "refs": [
+        "R12"
+      ],
+      "codes": [],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/0805W8F1502T5E/18163.html"
+      ],
+      "status": "series_document",
+      "reason": "No supplier code; exact document pending",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ],
+      "scope_note": "UNI-ROYAL resistor series document; does not resolve R12 100k versus 15k conflict"
+    },
+    {
+      "part": "0805W8F3300T5E",
+      "refs": [
+        "R45",
+        "R13"
+      ],
+      "codes": [
+        "C17630"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/0805W8F3300T5E/18318.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C17630",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C17630",
+      "product_page": "https://www.lcsc.com/product-detail/C17630.html",
+      "bytes": 467557,
+      "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef",
+      "text": "/tmp/hardware-review-20261120/0805W8F3300T5E_C17630.txt"
+    },
+    {
+      "part": "PZ254V-11-03P",
+      "refs": [
+        "H5",
+        "H6"
+      ],
+      "codes": [
+        "C2937625"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/PZ254V-11-03P/3293280.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "PZ254V-11-03P_C2937625.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/3b85a1cdf6ed945f2e278f00c1e42442.pdf?productCode=C2937625",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/3b85a1cdf6ed945f2e278f00c1e42442.pdf?productCode=C2937625",
+      "product_page": "https://www.lcsc.com/product-detail/C2937625.html",
+      "bytes": 138867,
+      "sha256": "d4cb67e0fd15267bd26f8e782f79b44bc2c8e05fd2ac63c5a88712860c9aacd0",
+      "text": "/tmp/hardware-review-20261120/PZ254V-11-03P_C2937625.txt"
+    },
+    {
+      "part": "LM334DT",
+      "refs": [
+        "U6"
+      ],
+      "codes": [
+        "C140388"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/LM334DT/151714.html"
+      ],
+      "status": "covered",
+      "files": [
+        "LM334_ST.pdf"
+      ]
+    },
+    {
+      "part": "nSMD020-30V",
+      "refs": [
+        "F9"
+      ],
+      "codes": [
+        "C69680"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/nSMD020-30V/70778.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "nSMD020-30V_C69680.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/018e07bdf2bf645791073b9c4a59d7b6.pdf?productCode=C69680",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/018e07bdf2bf645791073b9c4a59d7b6.pdf?productCode=C69680",
+      "product_page": "https://www.lcsc.com/product-detail/C69680.html",
+      "bytes": 514723,
+      "sha256": "ea989504d7de9ab0a28c0e6d979bee1166ee4fe640b7eddb4582ed4fc349f2e3",
+      "text": "/tmp/hardware-review-20261120/nSMD020-30V_C69680.txt"
+    },
+    {
+      "part": "SMD0603-002-30",
+      "refs": [
+        "F3"
+      ],
+      "codes": [
+        "C46640947"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/SMD0603-002-30/48798653.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "SMD0603-001-60_C46640946.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/177735abf81f1d0ca3dd64d465ded213.pdf?productCode=C46640947",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/177735abf81f1d0ca3dd64d465ded213.pdf?productCode=C46640947",
+      "product_page": "https://www.lcsc.com/product-detail/C46640947.html",
+      "bytes": 271188,
+      "sha256": "fa7ebd4833c040449b931fa0d8c410bc21aaff8da34d62ebd17153a5b99b5b91",
+      "text": "/tmp/hardware-review-20261120/SMD0603-002-30_C46640947.txt"
+    },
+    {
+      "part": "CL31A476MPHNNNE",
+      "refs": [
+        "C21",
+        "C20"
+      ],
+      "codes": [
+        "C96123"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707763339.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ]
+    },
+    {
+      "part": "KF2EDGR-5.08-14P",
+      "refs": [
+        "CN2"
+      ],
+      "codes": [
+        "C49173258"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/KF2EDGR-5.08-14P/51565623.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "KF2EDGR-5.08-14P_C49173258.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/50dc2d683fb501b638dea6cde12ab25d.pdf?productCode=C49173258",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/50dc2d683fb501b638dea6cde12ab25d.pdf?productCode=C49173258",
+      "product_page": "https://www.lcsc.com/product-detail/C49173258.html",
+      "bytes": 410539,
+      "sha256": "f961c280b58efa5b3c4603cf825e0b9e6cc986706f559dc430db8743ebcc43c8",
+      "text": "/tmp/hardware-review-20261120/KF2EDGR-5.08-14P_C49173258.txt"
+    },
+    {
+      "part": "FRC0603F1003TS",
+      "refs": [
+        "R6"
+      ],
+      "codes": [
+        "C2906980"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/FRC0603F1003TS/3180493.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2906980",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2906980",
+      "product_page": "https://www.lcsc.com/product-detail/C2906980.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0603F1003TS_C2906980.txt"
+    },
+    {
+      "part": "FRC0603F2492TS",
+      "refs": [
+        "R10"
+      ],
+      "codes": [
+        "C2930080"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2930080",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2930080",
+      "product_page": "https://www.lcsc.com/product-detail/C2930080.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0603F2492TS_C2930080.txt"
+    },
+    {
+      "part": "Test-Point",
+      "refs": [
+        "TP2",
+        "TP3",
+        "TP4",
+        "TP5",
+        "TP6",
+        "TP7"
+      ],
+      "codes": [],
+      "original_links": [],
+      "status": "not_applicable",
+      "reason": "Test points are generic PCB features; no purchased component datasheet specified."
+    },
+    {
+      "part": "FRC2512F1001TS",
+      "refs": [
+        "R53"
+      ],
+      "codes": [],
+      "original_links": [],
+      "status": "series_document",
+      "reason": "No supplier code; exact document pending",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "scope_note": "FOJAN FRC series document includes 2512; does not resolve R53 200k versus 1k conflict"
+    },
+    {
+      "part": "0805W8F4703T5E",
+      "refs": [
+        "R49",
+        "R50",
+        "R51",
+        "R52"
+      ],
+      "codes": [
+        "C17709"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/0805W8F4703T5E/18397.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C17709",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C17709",
+      "product_page": "https://www.lcsc.com/product-detail/C17709.html",
+      "bytes": 467557,
+      "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef",
+      "text": "/tmp/hardware-review-20261120/0805W8F4703T5E_C17709.txt"
+    },
+    {
+      "part": "CL31B225KBHNNNE",
+      "refs": [
+        "C67"
+      ],
+      "codes": [
+        "C50254"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CL31B225KBHNNNE/51263.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C50254",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C50254",
+      "product_page": "https://www.lcsc.com/product-detail/C50254.html",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL31B225KBHNNNE_C50254.txt"
+    },
+    {
+      "part": "0805W8F4702T5E",
+      "refs": [
+        "R55",
+        "R60",
+        "R61"
+      ],
+      "codes": [
+        "C17713"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ]
+    },
+    {
+      "part": "CC0805KRX7R9BB103",
+      "refs": [
+        "C63",
+        "C68",
+        "C60"
+      ],
+      "codes": [
+        "C83170"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CC0805KRX7R9BB103/84334.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CC0805KRX7R9BB102_C94121.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/23ccee80ee542e7cf156a772bb589942.pdf?productCode=C83170",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/23ccee80ee542e7cf156a772bb589942.pdf?productCode=C83170",
+      "product_page": "https://www.lcsc.com/product-detail/C83170.html",
+      "bytes": 1131214,
+      "sha256": "61a606825ab314ea318cfb5362848a62fdffb851efa9818d642e9a541c56a648",
+      "text": "/tmp/hardware-review-20261120/CC0805KRX7R9BB103_C83170.txt"
+    },
+    {
+      "part": "CL21A226MAQNNNE",
+      "refs": [
+        "C64",
+        "C61",
+        "C70"
+      ],
+      "codes": [
+        "C45783"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707727161.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ]
+    },
+    {
+      "part": "FRC0805J272 TS",
+      "refs": [
+        "R66",
+        "R69",
+        "R67"
+      ],
+      "codes": [
+        "C2907305"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/FRC0805J272%2520TS/3180818.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907305",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907305",
+      "product_page": "https://www.lcsc.com/product-detail/C2907305.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805J272_TS_C2907305.txt"
+    },
+    {
+      "part": "MRA4007T3G",
+      "refs": [
+        "D22",
+        "D21"
+      ],
+      "codes": [
+        "C47921"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/MRA4007T3G/48927.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "MRA4007T3G_C47921.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/5261dde0e75b4f808a69b509f769d52f.pdf?productCode=C47921",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/5261dde0e75b4f808a69b509f769d52f.pdf?productCode=C47921",
+      "product_page": "https://www.lcsc.com/product-detail/C47921.html",
+      "bytes": 98956,
+      "sha256": "ca10ec80ca793434b0437644a7f0128ce4888f164228efae16a3c190f7dce511",
+      "text": "/tmp/hardware-review-20261120/MRA4007T3G_C47921.txt"
+    },
+    {
+      "part": "MHT192DUGCT",
+      "refs": [
+        "LED3"
+      ],
+      "codes": [
+        "C7470862"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20231114/40E469906A7C8BE4964C1CB3B5553F65.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "MHT192DUGCT_7e5299af.pdf"
+      ]
+    },
+    {
+      "part": "FRC0805F1002TS",
+      "refs": [
+        "R59",
+        "R63"
+      ],
+      "codes": [
+        "C2907219"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907219",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2907219",
+      "product_page": "https://www.lcsc.com/product-detail/C2907219.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805F1002TS_C2907219.txt"
+    },
+    {
+      "part": "RE0805FAR000",
+      "refs": [
+        "R56",
+        "R57"
+      ],
+      "codes": [
+        "C51934133"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/RE0805FAR000/54649545.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "RE0805FAR000_C51934133.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/44f632037081b38b2e09b5447ef75127.pdf?productCode=C51934133",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/44f632037081b38b2e09b5447ef75127.pdf?productCode=C51934133",
+      "product_page": "https://www.lcsc.com/product-detail/C51934133.html",
+      "bytes": 1533202,
+      "sha256": "fe8a6bf9a5b62433018fe67ef33f401a746119d3e0b23d507e91df73c2d10677",
+      "text": "/tmp/hardware-review-20261120/RE0805FAR000_C51934133.txt"
+    },
+    {
+      "part": "FRC0805F5102TS",
+      "refs": [
+        "R62",
+        "R54",
+        "R58"
+      ],
+      "codes": [
+        "C2933461"
+      ],
+      "original_links": [],
+      "status": "downloaded",
+      "files": [
+        "FRC0603F1002TS_C2906982.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2933461",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/106fb934f95f063b695dad1b31b1eab8.pdf?productCode=C2933461",
+      "product_page": "https://www.lcsc.com/product-detail/C2933461.html",
+      "bytes": 1678891,
+      "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31",
+      "text": "/tmp/hardware-review-20261120/FRC0805F5102TS_C2933461.txt"
+    },
+    {
+      "part": "CC0805KKX7R9BB105",
+      "refs": [
+        "C69",
+        "C65"
+      ],
+      "codes": [
+        "C91185"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20181008/C309510_22F155564471FAF6A489F7D68F34234E.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CC0805KKX7R9BB105_81db54f5.pdf"
+      ]
+    },
+    {
+      "part": "LM258DR",
+      "refs": [
+        "U21"
+      ],
+      "codes": [
+        "C7928"
+      ],
+      "original_links": [
+        "https://www.ti.com/cn/lit/gpn/lm258"
+      ],
+      "status": "covered",
+      "files": [
+        "LM258DR_e6270b39.pdf"
+      ]
+    },
+    {
+      "part": "DSS14",
+      "refs": [
+        "D4"
+      ],
+      "codes": [
+        "C2923923"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/DSS14/3237738.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "DSS14_C2923923.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/6e8edab66426e244d3fe14796c343667.pdf?productCode=C2923923",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/6e8edab66426e244d3fe14796c343667.pdf?productCode=C2923923",
+      "product_page": "https://www.lcsc.com/product-detail/C2923923.html",
+      "bytes": 795454,
+      "sha256": "5a6d87732341fff254ef988a16709bae7f4f21c9a7d8a7ae7453ff4801eecfa7",
+      "text": "/tmp/hardware-review-20261120/DSS14_C2923923.txt"
+    },
+    {
+      "part": "CL31B104KBCNNNC",
+      "refs": [
+        "C59"
+      ],
+      "codes": [
+        "C24497"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/CL31B104KBCNNNC/25237.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "CL10B102KB8NNNC_C1588.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C24497",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C24497",
+      "product_page": "https://www.lcsc.com/product-detail/C24497.html",
+      "bytes": 7856403,
+      "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6",
+      "text": "/tmp/hardware-review-20261120/CL31B104KBCNNNC_C24497.txt"
+    },
+    {
+      "part": "0805W8F8202T5E",
+      "refs": [
+        "R64"
+      ],
+      "codes": [
+        "C17840"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/0805W8F8202T5E/18528.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C17840",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C17840",
+      "product_page": "https://www.lcsc.com/product-detail/C17840.html",
+      "bytes": 467557,
+      "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef",
+      "text": "/tmp/hardware-review-20261120/0805W8F8202T5E_C17840.txt"
+    },
+    {
+      "part": "SMBJ30CA",
+      "refs": [
+        "D2"
+      ],
+      "codes": [
+        "C2925441"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20220105/A85241C44E92388BF8CCAC68B271DA70.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "SMBJ30CA_c3dbf9d8.pdf"
+      ]
+    },
+    {
+      "part": "RC0603FR-0739KL",
+      "refs": [
+        "R32"
+      ],
+      "codes": [],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20181009/C309620_DA5935B6E1D48212CB7A533FE518B3C2.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "RC0603FR-0739KL_6450037d.pdf"
+      ]
+    },
+    {
+      "part": "G6K-2F-Y-5V",
+      "refs": [
+        "K1"
+      ],
+      "codes": [
+        "C2982926"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20211014/7BF675B8400467E84F4521D7CBDF46F1.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "G6K-2F-Y-5V_c8e4e251.pdf"
+      ]
+    },
+    {
+      "part": "CC0805KRX7R9BB104",
+      "refs": [
+        "C71",
+        "C62",
+        "C66",
+        "C2",
+        "C72"
+      ],
+      "codes": [
+        "C49678"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20180224/C181747_15194369449651363981.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "CC0805KRX7R9BB104_ea485e5e.pdf"
+      ]
+    },
+    {
+      "part": "1206W4F510JT5E",
+      "refs": [
+        "R65"
+      ],
+      "codes": [
+        "C18019"
+      ],
+      "original_links": [
+        "https://item.szlcsc.com/datasheet/1206W4F510JT5E/18707.html"
+      ],
+      "status": "downloaded",
+      "files": [
+        "0805W8F3300T5E_C17630.pdf"
+      ],
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C18019",
+      "final_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C18019",
+      "product_page": "https://www.lcsc.com/product-detail/C18019.html",
+      "bytes": 467557,
+      "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef",
+      "text": "/tmp/hardware-review-20261120/1206W4F510JT5E_C18019.txt"
+    },
+    {
+      "part": "RT0805BRD07100KL",
+      "refs": [
+        "R42",
+        "R83",
+        "R84"
+      ],
+      "codes": [
+        "C122537"
+      ],
+      "original_links": [
+        "https://atta.szlcsc.com/upload/public/pdf/source/20170721/C122537_1500619325668834091.pdf"
+      ],
+      "status": "covered",
+      "files": [
+        "RT0805BRD07100KL_75676fa4.pdf"
+      ]
+    }
+  ],
+  "deduplication": {
+    "downloaded_pdf_count_before": 101,
+    "unique_pdf_count": 70,
+    "removed_identical_copies": [
+      {
+        "alias": "CL10A105KB8NNNC_C15849.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "CL21A475KBQNNNE_C98192.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "CL31B104KBCNNNC_C24497.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "CL31B225KBHNNNE_C50254.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "CL21A226MAQNNNE_abf49f2d.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "CL21A475KAQNNNE_b1f16776.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "CL21B105KBFNNNE_f76a0912.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "CL21B223KBANNNC_31b12188.pdf",
+        "canonical": "CL10B102KB8NNNC_C1588.pdf",
+        "sha256": "96baebe4bd0ce363e87be28b5b003f511f1502e084a6fc4f02333ded56c808f6"
+      },
+      {
+        "alias": "FRC0603F1003TS_C2906980.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0603F10R0TS_C2906983.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0603F2492TS_C2930080.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805F1001TS_C2907232.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805F1002TS_C2907219.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805F1004TS_C2933280.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805F3902TS_C2907262.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805F5102TS_C2933461.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805F5103TS_C2933462.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805J272_TS_C2907305.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FRC0805J6R8_TS_C2907339.pdf",
+        "canonical": "FRC0603F1002TS_C2906982.pdf",
+        "sha256": "56042d128202b5f271f463df25503de8ecb937075b7c2c03a512ccf4e0823d31"
+      },
+      {
+        "alias": "FCC0805B104K500DT_C5137467.pdf",
+        "canonical": "FCC0402B104K160AT_C5137468.pdf",
+        "sha256": "5346c60a22302510521f6501c3bb6f4c9eec668959c8f84a1ddf6713c4ec6e7a"
+      },
+      {
+        "alias": "0805B104K500NT_0e6c1ca3.pdf",
+        "canonical": "0805B103K500NT_bf74b8e9.pdf",
+        "sha256": "c81ab9b60bd5bf435a50670690aa0ef0723443a8e77ae58eba09776c810c7d7a"
+      },
+      {
+        "alias": "0805B682K500NT_f8205fae.pdf",
+        "canonical": "0805B103K500NT_bf74b8e9.pdf",
+        "sha256": "c81ab9b60bd5bf435a50670690aa0ef0723443a8e77ae58eba09776c810c7d7a"
+      },
+      {
+        "alias": "0805X106K250NT_a9cc3ce3.pdf",
+        "canonical": "0805B103K500NT_bf74b8e9.pdf",
+        "sha256": "c81ab9b60bd5bf435a50670690aa0ef0723443a8e77ae58eba09776c810c7d7a"
+      },
+      {
+        "alias": "0805W8F4703T5E_C17709.pdf",
+        "canonical": "0805W8F3300T5E_C17630.pdf",
+        "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef"
+      },
+      {
+        "alias": "0805W8F8202T5E_C17840.pdf",
+        "canonical": "0805W8F3300T5E_C17630.pdf",
+        "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef"
+      },
+      {
+        "alias": "1206W4F510JT5E_C18019.pdf",
+        "canonical": "0805W8F3300T5E_C17630.pdf",
+        "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef"
+      },
+      {
+        "alias": "0805W8F1002T5E_fb383592.pdf",
+        "canonical": "0805W8F3300T5E_C17630.pdf",
+        "sha256": "11cd644d5d8a34a6d12775afb80bf58d8fc11f0c3b700dbd0f7a59942ceaa5ef"
+      },
+      {
+        "alias": "SMD0603-002-30_C46640947.pdf",
+        "canonical": "SMD0603-001-60_C46640946.pdf",
+        "sha256": "fa7ebd4833c040449b931fa0d8c410bc21aaff8da34d62ebd17153a5b99b5b91"
+      },
+      {
+        "alias": "SMAJ26CA_C148226.pdf",
+        "canonical": "SMAJ15CA_C223985.pdf",
+        "sha256": "3f987f8fc0988aae0f14259b9d1953f26bdfe2525bbc4fc636477f6b221fc38a"
+      },
+      {
+        "alias": "PZ254V-11-04P_C2691448.pdf",
+        "canonical": "PZ254V-11-03P_C2937625.pdf",
+        "sha256": "d4cb67e0fd15267bd26f8e782f79b44bc2c8e05fd2ac63c5a88712860c9aacd0"
+      },
+      {
+        "alias": "CC0805KRX7R9BB103_C83170.pdf",
+        "canonical": "CC0805KRX7R9BB102_C94121.pdf",
+        "sha256": "61a606825ab314ea318cfb5362848a62fdffb851efa9818d642e9a541c56a648"
+      }
+    ]
+  },
+  "component_document_status": {
+    "covered": 48,
+    "downloaded": 56,
+    "unresolved": 1,
+    "series_document": 3,
+    "not_applicable": 1
+  }
+}

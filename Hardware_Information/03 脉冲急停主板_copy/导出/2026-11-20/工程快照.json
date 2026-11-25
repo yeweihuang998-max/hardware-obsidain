@@ -1,0 +1,1057 @@
+{
+  "project": {
+    "itemType": "Project",
+    "uuid": "9b2151013a5b4610b6ee9941c13ce17c",
+    "friendlyName": "03 脉冲急停主板_copy",
+    "name": "HT-电子电路验证/03 脉冲急停主板_copy",
+    "teamUuid": "61c5c9acecf54d6b9facb6fb8fb89d39",
+    "folderUuid": "530ca9a4798346a7adfefa8208370cc3",
+    "description": "",
+    "data": [
+      {
+        "itemType": "Board",
+        "name": "脉冲急停主板V01",
+        "schematic": {
+          "itemType": "Schematic",
+          "uuid": "af9fa0bc685e1985",
+          "name": "Schematic1",
+          "page": [
+            {
+              "itemType": "Schematic Page",
+              "uuid": "96949c59456b0269",
+              "name": "电源+查询+CAN",
+              "parentSchematicUuid": "af9fa0bc685e1985",
+              "showTitleBlock": true,
+              "titleBlockData": {
+                "Symbol": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "Drawing-Symbol_A4"
+                },
+                "Company": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "嘉立创EDA"
+                },
+                "Drawed": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": ""
+                },
+                "Reviewed": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": ""
+                },
+                "Part Number": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": ""
+                },
+                "Version": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "V1.0"
+                },
+                "Page Size": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "A4"
+                },
+                "@Project Name": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "03 脉冲急停主板_copy"
+                },
+                "@Update Date": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "2026-11-12"
+                },
+                "@Create Date": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "2026-10-09"
+                },
+                "Device": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "Drawing-Symbol_A4"
+                },
+                "@Board Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "脉冲急停主板V01"
+                },
+                "@Page Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "电源+查询+CAN"
+                },
+                "@Create Time": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "09:54:49"
+                },
+                "@Page Count": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": 3
+                },
+                "@Page No": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": 2
+                },
+                "@Schematic Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "Schematic1"
+                },
+                "@Update Time": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "10:48:24"
+                },
+                "@Assembly Variant": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "Basic"
+                },
+                "Border": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1"
+                },
+                "Title Block Position": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "3"
+                },
+                "Size": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "A4"
+                },
+                "Width": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1655"
+                },
+                "Height": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1170"
+                },
+                "Region Start": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1"
+                },
+                "X Region Count": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "6"
+                },
+                "Y Region Count": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "4"
+                },
+                "Blade Width": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "10"
+                },
+                "Color": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "Title Block": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1"
+                },
+                "Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "Description": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "ID": {}
+              }
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "afc8a2d6b352fb13",
+              "name": "闭锁",
+              "parentSchematicUuid": "af9fa0bc685e1985",
+              "showTitleBlock": true,
+              "titleBlockData": {
+                "Symbol": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "Drawing-Symbol_A4"
+                },
+                "Company": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "嘉立创EDA"
+                },
+                "Drawed": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": ""
+                },
+                "Reviewed": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": ""
+                },
+                "Part Number": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": ""
+                },
+                "Version": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "V1.0"
+                },
+                "Page Size": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "A4"
+                },
+                "@Project Name": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "03 脉冲急停主板_copy"
+                },
+                "@Update Date": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "2026-11-12"
+                },
+                "@Create Date": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "2026-10-10"
+                },
+                "Device": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "Drawing-Symbol_A4"
+                },
+                "@Board Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "脉冲急停主板V01"
+                },
+                "@Page Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "闭锁"
+                },
+                "@Create Time": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "11:35:27"
+                },
+                "@Page Count": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": 3
+                },
+                "@Page No": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": 3
+                },
+                "@Schematic Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "Schematic1"
+                },
+                "@Update Time": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "08:23:56"
+                },
+                "@Assembly Variant": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "Basic"
+                },
+                "Border": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1"
+                },
+                "Title Block Position": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "3"
+                },
+                "Size": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "A4"
+                },
+                "Width": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1655"
+                },
+                "Height": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1170"
+                },
+                "Region Start": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1"
+                },
+                "X Region Count": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "6"
+                },
+                "Y Region Count": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "4"
+                },
+                "Blade Width": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "10"
+                },
+                "Color": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "Title Block": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "1"
+                },
+                "Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "Description": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "ID": {}
+              }
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "ed84f9e871eb0dc1",
+              "name": "单片机+网口电路",
+              "parentSchematicUuid": "af9fa0bc685e1985",
+              "showTitleBlock": true,
+              "titleBlockData": {
+                "Drawed": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": ""
+                },
+                "Reviewed": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": ""
+                },
+                "Version": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": ""
+                },
+                "Page Size": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": ""
+                },
+                "@Update Date": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "2026-11-04"
+                },
+                "@Create Date": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "2026-10-10"
+                },
+                "Part Number": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": ""
+                },
+                "@Project Name": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "03 脉冲急停主板_copy"
+                },
+                "@Page Count": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": 3
+                },
+                "@Page No": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": 1
+                },
+                "@Schematic Name": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "Schematic1"
+                },
+                "@Page Name": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "单片机+网口电路"
+                },
+                "Company": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "安徽恒泰电气科技股份有限公司"
+                },
+                "设计": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "汪雷"
+                },
+                "审核": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "赵德忠"
+                },
+                "批准": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "司志良"
+                },
+                "设计日期": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "2023.11.13"
+                },
+                "审核日期": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "2023.11.15"
+                },
+                "批准日期": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "2023.11.18"
+                },
+                "原理图号": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "HT354.100.01"
+                },
+                "产品名称": {
+                  "showTitle": false,
+                  "showValue": false,
+                  "value": "GJJ100矿用本安型激光甲烷传感器"
+                },
+                "电路板名称": {
+                  "showTitle": false,
+                  "showValue": true,
+                  "value": "主板原理图"
+                },
+                "Symbol": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "A3"
+                },
+                "Device": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "A3"
+                },
+                "Name": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "@Create Time": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "10:46:20"
+                },
+                "@Update Time": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": "14:23:53"
+                },
+                "Description": {
+                  "showTitle": null,
+                  "showValue": null,
+                  "value": ""
+                },
+                "ID": {}
+              }
+            }
+          ],
+          "parentProjectUuid": "9b2151013a5b4610b6ee9941c13ce17c",
+          "parentBoardName": "脉冲急停主板V01"
+        },
+        "pcb": {
+          "itemType": "PCB",
+          "name": "PCB1",
+          "uuid": "7c4483ab810715bf",
+          "parentBoardName": "脉冲急停主板V01",
+          "parentProjectUuid": "9b2151013a5b4610b6ee9941c13ce17c"
+        },
+        "parentProjectUuid": "9b2151013a5b4610b6ee9941c13ce17c"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "titleBlockData": {
+        "Symbol": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "Drawing-Symbol_A4"
+        },
+        "Company": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "嘉立创EDA"
+        },
+        "Drawed": {
+          "showTitle": false,
+          "showValue": true,
+          "value": ""
+        },
+        "Reviewed": {
+          "showTitle": false,
+          "showValue": true,
+          "value": ""
+        },
+        "Part Number": {
+          "showTitle": false,
+          "showValue": true,
+          "value": ""
+        },
+        "Version": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "V1.0"
+        },
+        "Page Size": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "A4"
+        },
+        "@Project Name": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "03 脉冲急停主板_copy"
+        },
+        "@Update Date": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "2026-11-12"
+        },
+        "@Create Date": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "2026-10-09"
+        },
+        "Device": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "Drawing-Symbol_A4"
+        },
+        "@Board Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "脉冲急停主板V01"
+        },
+        "@Page Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "电源+查询+CAN"
+        },
+        "@Create Time": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "09:54:49"
+        },
+        "@Page Count": {
+          "showTitle": null,
+          "showValue": null,
+          "value": 3
+        },
+        "@Page No": {
+          "showTitle": null,
+          "showValue": null,
+          "value": 2
+        },
+        "@Schematic Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "Schematic1"
+        },
+        "@Update Time": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "10:48:24"
+        },
+        "@Assembly Variant": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "Basic"
+        },
+        "Border": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1"
+        },
+        "Title Block Position": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "3"
+        },
+        "Size": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "A4"
+        },
+        "Width": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1655"
+        },
+        "Height": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1170"
+        },
+        "Region Start": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1"
+        },
+        "X Region Count": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "6"
+        },
+        "Y Region Count": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "4"
+        },
+        "Blade Width": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "10"
+        },
+        "Color": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "Title Block": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1"
+        },
+        "Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "Description": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "ID": {}
+      },
+      "showTitleBlock": true,
+      "itemType": "Schematic Page",
+      "uuid": "96949c59456b0269",
+      "name": "电源+查询+CAN",
+      "parentSchematicUuid": "af9fa0bc685e1985"
+    },
+    {
+      "titleBlockData": {
+        "Symbol": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "Drawing-Symbol_A4"
+        },
+        "Company": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "嘉立创EDA"
+        },
+        "Drawed": {
+          "showTitle": false,
+          "showValue": true,
+          "value": ""
+        },
+        "Reviewed": {
+          "showTitle": false,
+          "showValue": true,
+          "value": ""
+        },
+        "Part Number": {
+          "showTitle": false,
+          "showValue": true,
+          "value": ""
+        },
+        "Version": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "V1.0"
+        },
+        "Page Size": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "A4"
+        },
+        "@Project Name": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "03 脉冲急停主板_copy"
+        },
+        "@Update Date": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "2026-11-12"
+        },
+        "@Create Date": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "2026-10-10"
+        },
+        "Device": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "Drawing-Symbol_A4"
+        },
+        "@Board Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "脉冲急停主板V01"
+        },
+        "@Page Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "闭锁"
+        },
+        "@Create Time": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "11:35:27"
+        },
+        "@Page Count": {
+          "showTitle": null,
+          "showValue": null,
+          "value": 3
+        },
+        "@Page No": {
+          "showTitle": null,
+          "showValue": null,
+          "value": 3
+        },
+        "@Schematic Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "Schematic1"
+        },
+        "@Update Time": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "08:23:56"
+        },
+        "@Assembly Variant": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "Basic"
+        },
+        "Border": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1"
+        },
+        "Title Block Position": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "3"
+        },
+        "Size": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "A4"
+        },
+        "Width": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1655"
+        },
+        "Height": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1170"
+        },
+        "Region Start": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1"
+        },
+        "X Region Count": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "6"
+        },
+        "Y Region Count": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "4"
+        },
+        "Blade Width": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "10"
+        },
+        "Color": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "Title Block": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "1"
+        },
+        "Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "Description": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "ID": {}
+      },
+      "showTitleBlock": true,
+      "itemType": "Schematic Page",
+      "uuid": "afc8a2d6b352fb13",
+      "name": "闭锁",
+      "parentSchematicUuid": "af9fa0bc685e1985"
+    },
+    {
+      "titleBlockData": {
+        "Drawed": {
+          "showTitle": false,
+          "showValue": false,
+          "value": ""
+        },
+        "Reviewed": {
+          "showTitle": false,
+          "showValue": false,
+          "value": ""
+        },
+        "Version": {
+          "showTitle": false,
+          "showValue": false,
+          "value": ""
+        },
+        "Page Size": {
+          "showTitle": false,
+          "showValue": false,
+          "value": ""
+        },
+        "@Update Date": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "2026-11-04"
+        },
+        "@Create Date": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "2026-10-10"
+        },
+        "Part Number": {
+          "showTitle": false,
+          "showValue": true,
+          "value": ""
+        },
+        "@Project Name": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "03 脉冲急停主板_copy"
+        },
+        "@Page Count": {
+          "showTitle": false,
+          "showValue": false,
+          "value": 3
+        },
+        "@Page No": {
+          "showTitle": false,
+          "showValue": false,
+          "value": 1
+        },
+        "@Schematic Name": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "Schematic1"
+        },
+        "@Page Name": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "单片机+网口电路"
+        },
+        "Company": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "安徽恒泰电气科技股份有限公司"
+        },
+        "设计": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "汪雷"
+        },
+        "审核": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "赵德忠"
+        },
+        "批准": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "司志良"
+        },
+        "设计日期": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "2023.11.13"
+        },
+        "审核日期": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "2023.11.15"
+        },
+        "批准日期": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "2023.11.18"
+        },
+        "原理图号": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "HT354.100.01"
+        },
+        "产品名称": {
+          "showTitle": false,
+          "showValue": false,
+          "value": "GJJ100矿用本安型激光甲烷传感器"
+        },
+        "电路板名称": {
+          "showTitle": false,
+          "showValue": true,
+          "value": "主板原理图"
+        },
+        "Symbol": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "A3"
+        },
+        "Device": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "A3"
+        },
+        "Name": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "@Create Time": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "10:46:20"
+        },
+        "@Update Time": {
+          "showTitle": null,
+          "showValue": null,
+          "value": "14:23:53"
+        },
+        "Description": {
+          "showTitle": null,
+          "showValue": null,
+          "value": ""
+        },
+        "ID": {}
+      },
+      "showTitleBlock": true,
+      "itemType": "Schematic Page",
+      "uuid": "ed84f9e871eb0dc1",
+      "name": "单片机+网口电路",
+      "parentSchematicUuid": "af9fa0bc685e1985"
+    }
+  ],
+  "schematics": [
+    {
+      "itemType": "Schematic",
+      "uuid": "af9fa0bc685e1985",
+      "page": [
+        {
+          "itemType": "Schematic Page",
+          "uuid": "96949c59456b0269",
+          "name": "电源+查询+can",
+          "parentSchematicUuid": "af9fa0bc685e1985",
+          "showTitleBlock": true,
+          "titleBlockData": {}
+        },
+        {
+          "itemType": "Schematic Page",
+          "uuid": "afc8a2d6b352fb13",
+          "name": "闭锁",
+          "parentSchematicUuid": "af9fa0bc685e1985",
+          "showTitleBlock": true,
+          "titleBlockData": {}
+        },
+        {
+          "itemType": "Schematic Page",
+          "uuid": "ed84f9e871eb0dc1",
+          "name": "单片机+网口电路",
+          "parentSchematicUuid": "af9fa0bc685e1985",
+          "showTitleBlock": true,
+          "titleBlockData": {}
+        }
+      ],
+      "parentProjectUuid": "9b2151013a5b4610b6ee9941c13ce17c",
+      "parentBoardName": "脉冲急停主板V01",
+      "name": "schematic1"
+    }
+  ],
+  "document": {
+    "documentType": 1,
+    "uuid": "ed84f9e871eb0dc1",
+    "tabId": "ed84f9e871eb0dc1@9b2151013a5b4610b6ee9941c13ce17c",
+    "parentProjectUuid": "9b2151013a5b4610b6ee9941c13ce17c"
+  }
+}
